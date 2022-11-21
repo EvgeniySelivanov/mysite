@@ -1,0 +1,54 @@
+body{
+  margin: 0;
+  padding:0;
+  max-width: 100%;
+  max-height: 100%;
+}
+ footer {
+  /* position: absolute;
+  left: 0;
+  bottom: 0;   */
+  width: 100%;
+  height: 9%;
+}
+
+.myclass{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  }
+/*логотип в хедере и футере*/
+.logo ,.logoDown {
+    text-decoration: none;
+    display:inline-block;
+    color: #0d6efd;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.35rem;
+    white-space: nowrap;
+    transition: 2s;
+}
+
+.logo:hover,.logoDown:hover{
+  transform: scale(1.2,1.2);
+  transform: rotate(720deg);
+  transition: 1s;
+  color: rgb(239, 103, 12);
+}
+/*виджет github*/
+.gitico{
+  background-color: rgb(126, 37, 210) !important;
+}
+
+
+.logoDown{
+  font-size:small;
+  }
+
+@media(max-width:1400px)
+{.logoDown{
+  font-size:small;
+  }}
+

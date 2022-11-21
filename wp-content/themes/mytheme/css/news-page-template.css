@@ -1,0 +1,47 @@
+.pageNewsMain{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 90vh;
+  width: 100%;
+  background: url("/info.site/wp-content/themes/second/img/bg-news-page.jpg")100% 100% no-repeat;
+  background-size: cover;
+  box-sizing: content-box;
+  z-index: 1;
+  overflow: hidden
+}
+.customerPostText{
+  color: aliceblue;
+}
+body > div.pageNewsMain > .container > div > p:nth-child(4){
+  color: aliceblue;
+  font-size:large;
+}
+body > div.pageNewsMain > .container{
+  background-color: rgba(127, 255, 212, 0.212);
+}
+.myPost{
+  transition: 1.5s;
+}
+.myPost:hover{
+  transition: 0.5s;
+  background-color: rgb(43, 110, 88);
+}
+/*pagination in reviews page*/
+
+span.page-numbers.current {
+  background: #0d6efd;
+  color: white;
+  padding: 5px;
+  margin: 4px;
+  font-weight: 800;
+ 
+}
+button.btn a {
+  color: #f4f4f4;
+  text-decoration: none;
+}
+li a{ text-decoration: none;}
+/*post card*/

@@ -1,0 +1,58 @@
+/*стили шаблона contact-page.php*/
+#myContactForm {
+width: fit-content;
+padding: 2%;
+background-color: rgba(245, 202, 10, 0.192);
+border-radius: 4% 0 0 4%;
+}
+#myMap{
+  width: fit-content;
+  padding: 0!important; 
+  position: relative;
+  top: 15px;
+}
+#pageContactTemplate{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+.bg-template{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  height: 90vh;
+  width: 100%;
+  background: url("/info.site/wp-content/themes/second/img/bg-contact-page.jpg")100% 100% no-repeat;
+  background-size: cover;
+  z-index: 1;
+}
+@media(max-width:1400px){
+  #myContactForm {
+    border-radius: 4%;
+  }
+
+#pageContactTemplate{
+  transform:scale(0.7) ;
+}
+}
+@media(max-width:768px){
+  #myMap{
+    transform: translate(-50%,0px);
+    position: relative;
+    left: 50%;
+  }
+}
+
+@media(max-width:510px){
+  #pageContactTemplate{
+    transform:scale(0.65) ;
+  }
+  #myMap{
+    transform: translate(-50%,0px);
+    transform:scale(0.55);
+    position: relative;
+    left: -10%;  
+  }
+}
