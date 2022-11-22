@@ -8,4 +8,4 @@
     <?php the_content('more...');?>
     <?php comments_template(); ?>
 <?php endwhile;?>
-<?php get_footer();?>
+

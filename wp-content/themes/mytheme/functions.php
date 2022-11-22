@@ -69,6 +69,7 @@ add_action( 'after_setup_theme', function(){
 register_nav_menu('main-menu', 'Main menu');
 //Позволяет устанавливать миниатюру посту.
 add_theme_support( 'post-thumbnails' );
+//https://developer.wordpress.org/reference/functions/set_post_thumbnail_size/
 set_post_thumbnail_size( 150, 150);
 //Позволяет указывать формат посту(можно выбрать при редактировании поста)
 add_theme_support(
