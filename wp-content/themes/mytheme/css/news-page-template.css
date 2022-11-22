@@ -6,7 +6,7 @@
   flex-direction: column;
   height: 90vh;
   width: 100%;
-  background: url("/info.site/wp-content/themes/second/img/bg-news-page.jpg")100% 100% no-repeat;
+  background: url("/mysite/wp-content/themes/mytheme/img/bg-news-page.jpg")100% 100% no-repeat;
   background-size: cover;
   box-sizing: content-box;
   z-index: 1;

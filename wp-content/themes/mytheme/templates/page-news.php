@@ -11,7 +11,7 @@ $params = array(
 	'posts_per_page' => 2, // количество постов на странице
 	'post_type'       => 'post', // тип постов
 	'paged'           => $current_page,// текущая страница
-  'cat'=> '7'// ID категории постов которые выводить на этой странице
+  'cat'=> '3'// ID категории постов которые выводить на этой странице
 );
 query_posts($params);?>
  <div class="container" >

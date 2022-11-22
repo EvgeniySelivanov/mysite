@@ -2,7 +2,7 @@
 //подключил файл с бутраповской темой
 require_once $_SERVER['DOCUMENT_ROOT'].'/mysite/wp-content/themes/mytheme/bstr/bootstrap_5_wp_nav_menu.php';
 //подключил пагинация на странице превью
-// require_once $_SERVER['DOCUMENT_ROOT'].'/mysite/wp-content/themes/mytheme/function/pagination-page-previews.php';
+// require_once $_SERVER['DOCUMENT_ROOT'].'/mysite/wp-content/themes/mytheme/helpers/pagination-page-previews.php';
 //подключаю стили правильно
 function it_blog_style_frontend() {
    wp_enqueue_style('bootstrap', 'https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css');
@@ -62,11 +62,73 @@ register_sidebar(array(
   'before_title'  => '<h2>',
   'after_title'   => '</h2>' )
 );
+
 // Регистрируем возможности темы
 add_action( 'after_setup_theme', function(){
-
+//поддержка меню
 register_nav_menu('main-menu', 'Main menu');
+//Позволяет устанавливать миниатюру посту.
+add_theme_support( 'post-thumbnails' );
+set_post_thumbnail_size( 150, 150);
+//Позволяет указывать формат посту(можно выбрать при редактировании поста)
+add_theme_support(
+   'post-formats',
+   array(
+       'link',
+       'aside',
+       'gallery',
+       'image',
+       'quote',
+       'status',
+       'video',
+       'audio',
+       'chat',
+   )
+ );
+//Добавляет возможность изменять фон из админки
+// add_theme_support( 'custom-background',
+// array(
+// 	'default-color'          => '',
+// 	'default-image'          => '',
+// 	'wp-head-callback'       => '_custom_background_cb',
+// 	'admin-head-callback'    => '',
+// 	'admin-preview-callback' => ''
+// )
+// );
+// можно изменять изображения в шапке из админки
+// add_theme_support( 'custom-header', array(
+// 	'default-image'          => '',
+// 	'random-default'         => false,
+// 	'width'                  => 0,
+// 	'height'                 => 0,
+// 	'flex-height'            => false,
+// 	'flex-width'             => false,
+// 	'default-text-color'     => '', // вызывается функций get_header_textcolor()
+// 	'header-text'            => true,
+// 	'uploads'                => true,
+// 	'wp-head-callback'       => '',
+// 	'admin-head-callback'    => '',
+// 	'admin-preview-callback' => '',
+// 	'video'                  => false, // с 4.7
+// 	'video-active-callback'  => 'is_front_page', // с 4.7
+// ) );
+//Включает поддержку html5 разметки для списка комментариев, формы комментариев, формы поиска, галереи и т.д.
+add_theme_support(
+	'html5',
+	array(
+	'comment-list',
+	'comment-form',
+	'search-form',
+	'gallery',
+	'caption',
+	'script',
+	'style',
+	'navigation-widgets',
+	)
+);
 
+
+//закрытие функции
 });
 
 
