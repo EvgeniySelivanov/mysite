@@ -132,15 +132,19 @@ add_theme_support(
 //закрытие функции
 });
 
+
+
 //user information 
 function userInfo(){
    //массив с данными о пользователе
    $userInfo=wp_get_current_user();
-   //адресс сайта и параметром передаю страницу куда хочу попасть site_url('wp-login.php')
-   $pageLogIn=site_url('wp-login.php');
+   //страница входа и параметром передаю что хочу остаться на той же странице на которой нахожусь
+   $pageLogIn=wp_login_url();;
+ 
    //адресс страницы регистрации
    $pageReg=wp_registration_url();
-   $linkLogOut=wp_logout_url();
+   //указал что надо перенаправить на главную после выхода из аккаунта
+   $linkLogOut=wp_logout_url(home_url());
    //проверка если данные о пользователе(т.е. есть ли вход в акккаунт)
    if(isset($userInfo->display_name)&&isset($userInfo->user_email)){   
       echo(
@@ -161,6 +165,37 @@ function userInfo(){
 }
 //хук для работы с данными пользователя, потом я его вывожу в хедере
 add_action('userInfo','userInfo');
+
+	// Disable the toolbar for subscriber only
+   add_filter( 'show_admin_bar', function( $show) {
+      if (current_user_can( 'subscriber') ) {
+          return false;
+      }
+      return $show;
+  } );
+
+  //администраторы перенаправляются на дефолтную страницу, а другие пользователи - на домашнюю страницу.
+  add_filter( 'login_redirect', 'my_login_redirect', 10, 3 );
+
+  function my_login_redirect( $redirect_to, $request, $user ) {
+
+	//is there a user to check?
+	if ( isset( $user->roles ) && is_array( $user->roles ) ) {
+
+		// check for admins
+		if ( in_array( 'administrator', $user->roles ) ) {
+			// redirect them to the default place
+			return $redirect_to;
+		}
+		else {
+			return home_url();
+		}
+	}
+	else {
+		return $redirect_to;
+	}
+}
+
 ?>
 
 
