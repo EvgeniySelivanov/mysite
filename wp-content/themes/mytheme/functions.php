@@ -168,7 +168,7 @@ add_action('userInfo','userInfo');
 
 	// Disable the toolbar for subscriber only
    add_filter( 'show_admin_bar', function( $show) {
-      if (current_user_can( 'subscriber') ) {
+      if (current_user_can( 'subscriber')) {
           return false;
       }
       return $show;
