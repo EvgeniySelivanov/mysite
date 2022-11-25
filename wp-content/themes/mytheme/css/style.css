@@ -49,7 +49,9 @@ body{
 .logoDown{
   font-size:small;
   }
-
+li{
+  list-style-type: none;
+}
 @media(max-width:1400px)
 {.logoDown{
   font-size:small;

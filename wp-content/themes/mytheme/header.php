@@ -38,8 +38,12 @@
       || !dynamic_sidebar('header')
     ) : ?>
     <?php endif; ?>
+    <!-- user information -->
+    <div class="text-info"><?php do_action('userInfo'); ?></div>
   </div>
+  
   </nav>
+
 
 <!-- content -->
 

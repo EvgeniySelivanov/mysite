@@ -132,7 +132,35 @@ add_theme_support(
 //закрытие функции
 });
 
+//user information 
+function userInfo(){
+   //массив с данными о пользователе
+   $userInfo=wp_get_current_user();
+   //адресс сайта и параметром передаю страницу куда хочу попасть site_url('wp-login.php')
+   $pageLogIn=site_url('wp-login.php');
+   //адресс страницы регистрации
+   $pageReg=wp_registration_url();
+   $linkLogOut=wp_logout_url();
+   //проверка если данные о пользователе(т.е. есть ли вход в акккаунт)
+   if(isset($userInfo->display_name)&&isset($userInfo->user_email)){   
+      echo(
+      "<ul>
+         <li>User: $userInfo->display_name</li> 
+         <li>Email: $userInfo->user_email</li>
+         <li><a href=\"$linkLogOut\">Log Out</a></li>
 
+      </ul>" );}
+      else{
+         echo(
+            "<ul>
+               <li><a href=\"$pageLogIn\">Log In</a></li> 
+               <li><a href=\"$pageReg\">Registration</a></li>
+            </ul>" );
+      }
+
+}
+//хук для работы с данными пользователя, потом я его вывожу в хедере
+add_action('userInfo','userInfo');
 ?>
 
 
