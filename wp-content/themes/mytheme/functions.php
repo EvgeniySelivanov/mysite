@@ -196,6 +196,41 @@ add_action('userInfo','userInfo');
 	}
 }
 
+//CUSTOM PAGINATION USE BOOTSTRAP 5.0
+function bsPagination(){
+   //ссылка на предидущую страницу с постами
+   $previuosPage=get_previous_posts_page_link();
+   //чтобы не клацало больше макс к-ва страниц передается
+   $nextPage=get_next_posts_page_link($GLOBALS['wp_query']->max_num_pages ?: 1);
+   //номер текущей страницы
+   $thisPageNumber=get_query_var( 'paged', 1 );
+
+   $previuosPageNumber=$thisPageNumber-1;
+   $nextPageNumber=$thisPageNumber+1;
+
+   
+echo "<nav aria-label=\"Page navigation example\">
+<ul class=\"pagination justify-content-end \">
+  <li class=\"page-item\">
+    <a class=\"page-link \" href=\"$previuosPage\">Previous</a>
+  </li>";
+if($previuosPageNumber!==0){
+   echo" <li class=\"page-item\"><a class=\"page-link\" href=\"$previuosPage\">$previuosPageNumber</a></li>
+   <li class=\"page-item\"><a class=\"page-link\" href=\"#\">$thisPageNumber</a></li>
+  <li class=\"page-item\"><a class=\"page-link\" href=\"$nextPage\">$nextPageNumber</a></li>";
+}
+ else{
+   echo "<li class=\"page-item\"><a class=\"page-link\" href=\"#\">$thisPageNumber</a></li>
+   <li class=\"page-item\"><a class=\"page-link\" href=\"$nextPage\">$nextPageNumber</a></li>";
+ }
+  echo"
+  <li class=\"page-item\">
+    <a class=\"page-link\" href=\"$nextPage\">Next</a>
+  </li>
+</ul>
+</nav>";
+}
+add_action('myPostPagination','bsPagination');
 ?>
 
 

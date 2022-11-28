@@ -4,11 +4,11 @@
   align-content: center;
   align-items: center;
   flex-direction: column;
-  height: 90vh;
+  height: 100%;
    width: 100%;
   background: url("/mysite/wp-content/themes/mytheme/img/bg-news-page.jpg") no-repeat;
-  background-size: 100% 80%;
-  box-sizing: content-box;
+  background-size: 100% 100%;
+ 
   z-index: 1;
   overflow: hidden
 }
@@ -28,27 +28,4 @@ body > div.pageNewsMain > .container{
 .myPost:hover{
   transition: 0.5s;
   background-color: rgb(43, 110, 88);
-}
-/*pagination in reviews page*/
-
-span.page-numbers.current {
-  background: #0d6efd;
-  color: white;
-  padding: 5px;
-  margin: 4px;
-  font-weight: 800;
- 
-}
-button.btn a {
-  color: #f4f4f4;
-  text-decoration: none;
-}
-li a{ text-decoration: none;}
-/*post card*/
-.makeReg{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  min-height: 100%;
 }

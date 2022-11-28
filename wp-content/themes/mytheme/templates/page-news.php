@@ -8,7 +8,7 @@
 <!-- ограничил доступ к странице если роль пользователя подписчик или администратор отображай страницу-->
 <?php   if (current_user_can( 'subscriber')||current_user_can( 'administrator')){?>
 
-<div class="pageNewsMain content">
+<div class="pageNewsMain">
 
   <?php $current_page = (get_query_var('paged')) ? get_query_var('paged') : 1;
   $params = array(
@@ -34,7 +34,15 @@
         <a href="<?php the_permalink(); ?>" class="btn btn-outline-dark shadow-none">Read more →</a>
       </div>
     <?php endwhile; ?>
-    <div class="text-white"><a href="http://localhost/mysite/?page_id=53" class="btn btn-outline-light shadow-none">Create news</a></div> 
+    <div class="d-flex justify-content-center"><a href="http://localhost/mysite/?page_id=53" class="btn btn-outline-light shadow-none my-3">Create news</a></div> 
+
+</div>
+<div class="d-flex justify-content-center mt-4">
+      <?php do_action('myPostPagination');?>
+</div>
+</div>
+
+
 <?php }
 //если роль пользователя не совпадает выводи следующие
 else{
@@ -44,8 +52,5 @@ else{
   </div>');
   
 }
-
-
 ?>
-</div>
     <?php get_footer(); ?>
