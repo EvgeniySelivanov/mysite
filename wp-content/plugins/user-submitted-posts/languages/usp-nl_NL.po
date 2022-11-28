@@ -1,0 +1,1676 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: USP 20221004\n"
+"Language: nl\n"
+
+#: library/plugin-settings.php:567
+msgid " approved posts"
+msgstr " goedgekeurde berichten"
+
+#: user-submitted-posts.php:1499
+msgid " file"
+msgstr " het dossier"
+
+#: user-submitted-posts.php:1496
+msgid " file required"
+msgstr " bestand vereist"
+
+#: user-submitted-posts.php:1498
+msgid " files"
+msgstr " bestanden"
+
+#: user-submitted-posts.php:1495
+msgid " files required"
+msgstr " bestanden vereist"
+
+#: user-submitted-posts.php:84
+msgid " or higher, and has been deactivated! "
+msgstr " of hoger, en is gedeactiveerd! "
+
+#: user-submitted-posts.php:1501 user-submitted-posts.php:1502
+#: user-submitted-posts.php:1503 user-submitted-posts.php:1504
+msgid " pixels"
+msgstr " pixels"
+
+#: user-submitted-posts.php:1541 user-submitted-posts.php:1542
+msgid " required"
+msgstr " verplicht"
+
+#: library/plugin-display.php:535
+msgid "&ldquo;Add another image&rdquo; link"
+msgstr "&ldquo;Voeg nog een afbeelding toe&rdquo; koppeling"
+
+#: library/plugin-display.php:61
+msgid "&mdash; the ultimate solution for user-generated content."
+msgstr "&mdash; de ultieme oplossing voor user-generated content."
+
+#: library/plugin-settings.php:180
+msgid "(Provide your own form template &amp; styles)"
+msgstr "(Geef uw eigen formuliersjabloon en stijlen op)"
+
+#: library/plugin-settings.php:176
+msgid "(Provide your own styles)"
+msgstr "(Geef je eigen stijlen)"
+
+#: library/plugin-settings.php:172
+msgid "(Recommended)"
+msgstr "(Aanbevolen)"
+
+#: library/plugin-display.php:131
+msgid "..and upload them into a directory named"
+msgstr "..en upload ze naar een map met de naam"
+
+#: library/plugin-display.php:770
+msgid "Access Control"
+msgstr "Toegangscontrole"
+
+#: library/plugin-display.php:468
+msgid "Add a challenge question to help stop spam. Tip: make the question easy to answer for any human."
+msgstr "Voeg een uitdagingsvraag toe om spam tegen te gaan. Tip: maak de vraag makkelijk te beantwoorden voor ieder mens."
+
+#: views/submission-form.php:147 views/submission-form-alt.php:162
+msgid "Add another image"
+msgstr "Nog een afbeelding toevoegen"
+
+#: library/plugin-display.php:291
+msgid "Additional recipients for email alerts. Use commas to separate multiple addresses."
+msgstr "Extra ontvangers voor e-mailwaarschuwingen. Gebruik komma's om meerdere adressen te scheiden."
+
+#: library/shortcode-login.php:183
+msgid "Admin"
+msgstr "beheerder"
+
+#: library/plugin-settings.php:200 library/plugin-settings.php:224
+#: library/plugin-settings.php:248 library/plugin-settings.php:272
+#: library/plugin-settings.php:296
+msgid "After post content"
+msgstr "Na de inhoud van het bericht"
+
+#: user-submitted-posts.php:1512
+msgid "An error occurred. Please go back and try again."
+msgstr "Er is een fout opgetreden. Ga terug en probeer het opnieuw."
+
+#: library/plugin-display.php:363 library/plugin-display.php:746
+#: library/plugin-display.php:751
+msgid "and"
+msgstr "en"
+
+#: library/support-panel.php:63
+msgid "and is greatly appreciated."
+msgstr "en wordt zeer gewaardeerd."
+
+#: library/plugin-display.php:35
+msgid "and/or"
+msgstr "en/of"
+
+#: views/submission-form.php:85 views/submission-form-alt.php:100
+msgid "Antispam Question"
+msgstr "Antispamvraag"
+
+#: library/support-panel.php:65
+msgid "Any size donation helps me to continue developing this free plugin and other awesome WordPress resources."
+msgstr "Elke donatie helpt me om door te gaan met het ontwikkelen van deze gratis plug-in en andere geweldige WordPress-bronnen."
+
+#: library/plugin-display.php:231
+msgid "Assigned Author"
+msgstr "Toegewezen auteur"
+
+#: library/plugin-display.php:747 library/plugin-display.php:751
+msgid "attributes"
+msgstr "attributen"
+
+#: library/plugin-display.php:583
+msgid "Automatically display images and more."
+msgstr "Automatisch afbeeldingen weergeven en meer."
+
+#: library/plugin-settings.php:196 library/plugin-settings.php:220
+#: library/plugin-settings.php:244 library/plugin-settings.php:268
+#: library/plugin-settings.php:292
+msgid "Before post content"
+msgstr "Voor de inhoud van het bericht"
+
+#: library/support-panel.php:55
+msgid "books"
+msgstr "boeken"
+
+#: library/plugin-display.php:829
+msgid "by"
+msgstr "door"
+
+#: library/plugin-display.php:152
+msgid "By default, CSS &amp; JavaScript files are loaded on every page. To load only on specific page(s), enter the URL(s) here. Use commas to separate multiple URLs. Leave blank to load on all pages."
+msgstr "Standaard zijn CSS &amp; JavaScript-bestanden worden op elke pagina geladen. Om alleen op specifieke pagina('s) te laden, voert u hier de URL('s) in. Gebruik komma's om meerdere URL's te scheiden. Laat leeg om op alle pagina's te laden."
+
+#: library/plugin-display.php:430
+msgid "By default, this displays an &ldquo;Agree to Terms&rdquo; checkbox. Customize as desired."
+msgstr "Standaard wordt hier een &ldquo;Akkoord met de voorwaarden&rdquo; selectievakje. Pas naar wens aan."
+
+#: library/plugin-display.php:753
+msgid "Can use"
+msgstr "Kan gebruiken"
+
+#: library/plugin-display.php:481
+msgid "Case-sensitivity"
+msgstr "Hoofdlettergevoeligheid"
+
+#: library/plugin-display.php:332
+msgid "Categories"
+msgstr "Categorieën"
+
+#: library/plugin-display.php:327
+msgid "Categories &amp; Tags"
+msgstr "Categorieën & Tags"
+
+#: library/plugin-display.php:363
+msgid "category"
+msgstr "categorie"
+
+#: library/plugin-display.php:349
+msgid "Category ID for Hidden Field"
+msgstr "Categorie-ID voor verborgen veld"
+
+#: library/plugin-settings.php:408 library/plugin-display.php:466
+#: library/plugin-display.php:471
+msgid "Challenge Question"
+msgstr "uitdagende vraag"
+
+#: library/plugin-display.php:476
+msgid "Challenge Response"
+msgstr "Uitdagingsreactie"
+
+#: library/plugin-display.php:319 library/plugin-display.php:392
+#: library/plugin-display.php:420 library/plugin-display.php:458
+msgid "check out"
+msgstr "uitchecken"
+
+#: library/plugin-display.php:754
+msgid "Check out the source code inline notes for more info"
+msgstr "Bekijk de inline-notities van de broncode voor meer info"
+
+#: library/plugin-display.php:46
+msgid "Check this box if you have shown support"
+msgstr "Vink dit vakje aan als je steun hebt getoond"
+
+#: library/shortcode-login.php:98
+msgid "Check your email for the password."
+msgstr "Controleer uw e-mail voor het wachtwoord."
+
+#: library/shortcode-login.php:103
+msgid "Check your email to reset your password."
+msgstr "Controleer uw e-mail om uw wachtwoord opnieuw in te stellen."
+
+#: library/plugin-display.php:443
+msgid "Checkbox Error"
+msgstr "Selectievakje Fout"
+
+#: library/plugin-display.php:438
+msgid "Checkbox Name"
+msgstr "Naam selectievakje"
+
+#: library/plugin-display.php:448
+msgid "Checkbox Text"
+msgstr "Selectievakje Tekst"
+
+#: library/plugin-display.php:85
+msgid "Choose fields to display on the front-end form."
+msgstr "Kies velden om weer te geven op het front-endformulier."
+
+#: library/plugin-display.php:506
+msgid "Choose reCaptcha version"
+msgstr "Kies reCaptcha-versie"
+
+#: library/plugin-display.php:374
+msgid "Configure Custom Field #1."
+msgstr "Configureer aangepast veld #1."
+
+#: library/plugin-display.php:402
+msgid "Configure Custom Field #2."
+msgstr "Configureer aangepast veld #2."
+
+#: library/plugin-display.php:276
+msgid "Configure email notifications for new submitted posts."
+msgstr "Configureer e-mailmeldingen voor nieuw ingediende berichten."
+
+#: library/plugin-display.php:118
+msgid "Configure general settings. Note: the default settings work fine for most cases."
+msgstr "Algemene instellingen configureren. Let op: de standaardinstellingen werken in de meeste gevallen prima."
+
+#: library/plugin-display.php:514
+msgid "Configure settings for image uploads."
+msgstr "Configureer instellingen voor het uploaden van afbeeldingen."
+
+#: library/plugin-display.php:329
+msgid "Configure settings for the Category and Tag fields."
+msgstr "Configureer instellingen voor de velden Categorie en Tag."
+
+#: library/plugin-display.php:228
+msgid "Configure user settings."
+msgstr "Gebruikersinstellingen configureren."
+
+#: library/shortcode-login.php:180
+msgid "Congratulations, you&rsquo;re logged in."
+msgstr "Gefeliciteerd, je bent ingelogd."
+
+#: user-submitted-posts.php:1529 user-submitted-posts.php:1530
+msgid "Correct captcha required"
+msgstr "Correcte captcha vereist"
+
+#: library/plugin-display.php:296
+msgid "Custom address for the email &ldquo;From&rdquo; header (see plugin FAQs for info)."
+msgstr "Aangepast adres voor de e-mail &ldquo;Van&rdquo; header (zie veelgestelde vragen over plug-ins voor info)."
+
+#: library/plugin-display.php:428
+msgid "Custom Checkbox"
+msgstr "Aangepast selectievakje"
+
+#: user-submitted-posts.php:1509
+msgid "Custom checkbox required"
+msgstr "Aangepast selectievakje vereist"
+
+#: library/plugin-display.php:184
+msgid "Custom Content"
+msgstr "Aangepaste inhoud"
+
+#: user-submitted-posts.php:1506 library/core-functions.php:306
+#: library/plugin-settings.php:369 library/plugin-settings.php:907
+#: library/plugin-display.php:372
+msgid "Custom Field 1"
+msgstr "Aangepast veld 1"
+
+#: library/plugin-display.php:639
+msgid "Custom Field 1 Display"
+msgstr "Aangepast veld 1 weergave"
+
+#: library/plugin-display.php:646
+msgid "Custom Field 1 Markup"
+msgstr "Aangepast veld 1 markering"
+
+#: user-submitted-posts.php:1507 library/core-functions.php:255
+#: library/plugin-settings.php:374 library/plugin-settings.php:910
+#: library/plugin-display.php:400
+msgid "Custom Field 2"
+msgstr "Aangepast veld 2"
+
+#: library/plugin-display.php:652
+msgid "Custom Field 2 Display"
+msgstr "Aangepast veld 2 weergave"
+
+#: library/plugin-display.php:659
+msgid "Custom Field 2 Markup"
+msgstr "Aangepast veld 2 markering"
+
+#: library/plugin-display.php:382 library/plugin-display.php:410
+msgid "Custom Field Label"
+msgstr "Aangepast veldlabel"
+
+#: library/plugin-display.php:377 library/plugin-display.php:405
+msgid "Custom Field Name"
+msgstr "Aangepaste veldnaam"
+
+#: library/plugin-settings.php:180
+msgid "Custom Form + Custom CSS"
+msgstr "Aangepast formulier + aangepaste CSS"
+
+#: library/plugin-display.php:537
+msgid "Custom markup for the &ldquo;Add another image&rdquo; link. Leave blank to use the default markup (recommended)."
+msgstr "Aangepaste opmaak voor de &ldquo;Voeg nog een afbeelding toe&rdquo; koppeling. Laat leeg om de standaardopmaak te gebruiken (aanbevolen)."
+
+#: library/plugin-display.php:522
+msgid "Default Featured Image"
+msgstr "Standaard uitgelichte afbeelding"
+
+#: library/plugin-settings.php:481
+msgid "Disable"
+msgstr "Uitzetten"
+
+#: library/plugin-display.php:201
+msgid "Disable all required attributes on form fields (useful for troubleshooting error messages)"
+msgstr "Schakel alle vereiste kenmerken op formuliervelden uit (handig voor het oplossen van foutberichten)"
+
+#: library/plugin-display.php:204
+msgid "Disable IP Tracking"
+msgstr "IP-tracking uitschakelen"
+
+#: library/plugin-display.php:258
+msgid "Disable Replace Author"
+msgstr "Uitschakelen Auteur vervangen"
+
+#: library/plugin-display.php:199
+msgid "Disable Required"
+msgstr "Uitschakelen Vereist"
+
+#: library/plugin-settings.php:350 library/plugin-settings.php:391
+#: library/plugin-settings.php:421 library/plugin-settings.php:451
+msgid "Disable this field"
+msgstr "Schakel dit veld uit"
+
+#: library/plugin-display.php:356
+msgid "Display a select/dropdown menu of existing tags (valid when Tag field is displayed on the form)"
+msgstr "Een selectie-/vervolgkeuzemenu van bestaande tags weergeven (geldig wanneer het veld Tag op het formulier wordt weergegeven)"
+
+#: library/plugin-display.php:433
+msgid "Display Checkbox"
+msgstr "Selectievakje weergeven"
+
+#: library/plugin-display.php:773
+msgid "Display content only to users with a specific capability:"
+msgstr "Geef inhoud alleen weer aan gebruikers met een specifieke mogelijkheid:"
+
+#: library/plugin-display.php:775
+msgid "Display content to logged-in users:"
+msgstr "Inhoud weergeven voor ingelogde gebruikers:"
+
+#: library/plugin-display.php:777
+msgid "Display content to visitors only:"
+msgstr "Geef inhoud alleen aan bezoekers weer:"
+
+#: library/plugin-display.php:435
+msgid "Display custom checkbox on the submission form"
+msgstr "Aangepast selectievakje weergeven op het indieningsformulier"
+
+#: library/plugin-display.php:641
+msgid "Display Custom Field 1:"
+msgstr "Aangepast veld 1 weergeven:"
+
+#: library/plugin-display.php:654
+msgid "Display Custom Field 2:"
+msgstr "Aangepast veld 2 weergeven:"
+
+#: library/plugin-display.php:730
+msgid "Display image gallery"
+msgstr "Afbeeldingengalerij weergeven"
+
+#: library/plugin-display.php:615
+msgid "Display submitted author/name:"
+msgstr "Ingediende auteur/naam weergeven:"
+
+#: library/plugin-display.php:602
+msgid "Display submitted email address:"
+msgstr "Ingediend e-mailadres weergeven:"
+
+#: library/plugin-display.php:588
+msgid "Display submitted images:"
+msgstr "Ingezonden afbeeldingen weergeven:"
+
+#: library/plugin-display.php:628
+msgid "Display submitted URL:"
+msgstr "Ingediende URL weergeven:"
+
+#: library/plugin-display.php:684
+msgid "Display the Form"
+msgstr "Geef het formulier weer"
+
+#: library/plugin-display.php:701
+msgid "Display the login/register form"
+msgstr "Geef het aanmeldings-/registratieformulier weer"
+
+#: library/plugin-display.php:688
+msgid "Display the submit-post form"
+msgstr "Geef het verzendformulier weer"
+
+#: library/plugin-display.php:711
+msgid "Display user-submitted posts"
+msgstr "Door gebruikers ingediende berichten weergeven"
+
+#: library/plugin-display.php:206
+msgid "Do not collect or store any user IP address (useful for complying with privacy regulations)"
+msgstr "Verzamel of bewaar geen IP-adres van een gebruiker (handig om te voldoen aan de privacyregelgeving)"
+
+#: library/plugin-settings.php:204 library/plugin-settings.php:228
+#: library/plugin-settings.php:252 library/plugin-settings.php:276
+#: library/plugin-settings.php:300
+msgid "Do not display"
+msgstr "Geef niet weer"
+
+#: library/plugin-display.php:260
+msgid "Do not replace post author with submitted user name"
+msgstr "Vervang de auteur van het bericht niet door de ingediende gebruikersnaam"
+
+#: library/plugin-display.php:65
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: library/support-panel.php:53
+msgid "Donate via PayPal"
+msgstr "Doneer via PayPal"
+
+#: library/support-panel.php:57
+msgid "donation"
+msgstr "bijdrage"
+
+#: library/plugin-settings.php:563
+msgid "Draft"
+msgstr "Voorlopige versie"
+
+#: user-submitted-posts.php:1554
+msgid "Duplicate post title. Please try again."
+msgstr "Dubbele posttitel. Probeer het opnieuw."
+
+#: library/plugin-settings.php:895
+msgid "Email"
+msgstr "E-mail"
+
+#: library/plugin-display.php:294
+msgid "Email &ldquo;From&rdquo; Address"
+msgstr "E-mail &ldquo;Van&rdquo; Adres"
+
+#: library/plugin-display.php:289
+msgid "Email Address for Alerts"
+msgstr "E-mailadres voor waarschuwingen"
+
+#: library/plugin-display.php:307
+msgid "Email Alert Message"
+msgstr "E-mailwaarschuwingsbericht"
+
+#: library/plugin-display.php:300
+msgid "Email Alert Subject"
+msgstr "Onderwerp e-mailwaarschuwing"
+
+#: library/plugin-display.php:274
+msgid "Email Alerts"
+msgstr "email waarschuwingen"
+
+#: library/plugin-display.php:600
+msgid "Email Display"
+msgstr "E-mailweergave"
+
+#: library/plugin-display.php:607
+msgid "Email Markup"
+msgstr "E-mailopmaak"
+
+#: library/plugin-display.php:318
+msgid "email-alert options"
+msgstr "opties voor e-mailmeldingen"
+
+#: library/plugin-settings.php:480
+msgid "Enable"
+msgstr "Inschakelen"
+
+#: library/plugin-settings.php:348 library/plugin-settings.php:389
+#: library/plugin-settings.php:420 library/plugin-settings.php:450
+msgid "Enable and require"
+msgstr "Inschakelen en vereisen"
+
+#: library/plugin-settings.php:349 library/plugin-settings.php:390
+msgid "Enable but do not require"
+msgstr "Inschakelen maar niet nodig"
+
+#: library/plugin-display.php:284
+msgid "Enable HTML Format"
+msgstr "HTML-indeling inschakelen"
+
+#: library/plugin-display.php:286
+msgid "Enable HTML format for email alert messages"
+msgstr "HTML-indeling inschakelen voor e-mailwaarschuwingen"
+
+#: library/plugin-display.php:191
+msgid "Enable RTE/Visual Editor for the Post Content field"
+msgstr "Schakel RTE/Visual Editor in voor het veld Inhoud posten"
+
+#: library/plugin-display.php:209
+msgid "Enable Shortcodes"
+msgstr "Shortcodes inschakelen"
+
+#: library/plugin-display.php:211
+msgid "Enable shortcodes in widgets. By default, WordPress does not enable shortcodes in widgets. "
+msgstr "Schakel shortcodes in widgets in. Standaard schakelt WordPress geen shortcodes in widgets in. "
+
+#: library/plugin-display.php:341
+msgid "Enable users to select multiple categories"
+msgstr "Gebruikers in staat stellen meerdere categorieën te selecteren"
+
+#: library/plugin-display.php:573
+msgid "Enable users to upload other file types (like PDF, Word, Zip, videos, and more), check out"
+msgstr "Stel gebruikers in staat om andere bestandstypen te uploaden (zoals PDF, Word, Zip, video's en meer), uitchecken"
+
+#. Description of the plugin
+#: 
+msgid "Enables your visitors to submit posts and images from anywhere on your site."
+msgstr "Stelt uw bezoekers in staat om overal op uw site berichten en afbeeldingen in te dienen."
+
+#: library/plugin-display.php:59
+msgid "enables your visitors to submit posts and upload images from the front-end of your site. "
+msgstr "stelt uw bezoekers in staat om berichten in te dienen en afbeeldingen te uploaden vanaf de voorkant van uw site. "
+
+#: library/plugin-display.php:478
+msgid "Enter the *only* correct answer to the challenge question"
+msgstr "Vul het *enige* juiste antwoord in op de uitdagingsvraag"
+
+#: library/plugin-display.php:526
+msgid "Enter URL or click button to upload/choose an image (optional)"
+msgstr "Voer de URL in of klik op de knop om een afbeelding te uploaden/kiezen (optioneel)"
+
+#: library/plugin-display.php:500
+msgid "Enter your Private Key"
+msgstr "Voer uw privésleutel in"
+
+#: library/plugin-display.php:495
+msgid "Enter your Public Key"
+msgstr "Voer uw openbare sleutel in"
+
+#: library/shortcode-login.php:156
+msgid "Enter your username or email to reset your password."
+msgstr "Voer uw gebruikersnaam of e-mailadres in om uw wachtwoord opnieuw in te stellen."
+
+#: library/plugin-display.php:179
+msgid "Error Message"
+msgstr "Foutmelding"
+
+#: library/plugin-display.php:181
+msgid "Error message displayed if post submission fails (basic markup allowed)"
+msgstr "Er wordt een foutbericht weergegeven als het indienen van een bericht mislukt (basisopmaak toegestaan)"
+
+#: library/plugin-display.php:445
+msgid "Error message displayed if user does not check the box"
+msgstr "Foutbericht weergegeven als gebruiker het vakje niet aanvinkt"
+
+#: user-submitted-posts.php:1564
+msgid "Error: "
+msgstr "Fout: "
+
+#: library/plugin-display.php:783
+msgid "Example"
+msgstr "Voorbeeld"
+
+#: library/plugin-display.php:517
+msgid "Featured Image"
+msgstr "Uitgelichte afbeelding"
+
+#: user-submitted-posts.php:1547
+msgid "File not uploaded. Please check the file and try again."
+msgstr "Bestand niet geüpload. Controleer het bestand en probeer het opnieuw."
+
+#: user-submitted-posts.php:1540
+msgid "File type not allowed (please upload images only)"
+msgstr "Bestandstype niet toegestaan (upload alleen afbeeldingen)"
+
+#: library/plugin-display.php:390 library/plugin-display.php:418
+#: library/plugin-display.php:456
+msgid "For"
+msgstr "Voor"
+
+#: library/plugin-display.php:317 library/plugin-display.php:362
+msgid "For more"
+msgstr "Voor meer"
+
+#: library/plugin-display.php:60
+msgid "For more features and unlimited forms, check out"
+msgstr "Ga voor meer functies en onbeperkte formulieren naar"
+
+#: library/plugin-display.php:218 library/plugin-display.php:266
+#: library/plugin-display.php:668
+msgid "For more options and features, check out"
+msgstr "Voor meer opties en features, check out"
+
+#: library/plugin-display.php:108
+msgid "For unlimited fields, check out"
+msgstr "Voor onbeperkte velden, check out"
+
+#: library/shortcode-login.php:90
+msgid "Forgot?"
+msgstr "Vergeten?"
+
+#: library/plugin-display.php:83
+msgid "Form Fields"
+msgstr "Formuliervelden"
+
+#: library/plugin-display.php:121
+msgid "Form Style"
+msgstr "Vormstijl"
+
+#: library/plugin-display.php:581
+msgid "Frontend Display"
+msgstr "Frontend-weergave"
+
+#: library/plugin-display.php:139
+msgid "FYI: here is a"
+msgstr "Ter info: hier is een"
+
+#: library/plugin-display.php:116
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: library/plugin-display.php:72
+msgid "Get USP Pro"
+msgstr "Krijg USP Pro"
+
+#: library/plugin-settings.php:40
+msgid "Get USP Pro for unlimited forms!"
+msgstr "Krijg USP Pro voor onbeperkte formulieren!"
+
+#: library/plugin-display.php:70
+msgid "give it a 5-star rating"
+msgstr "geef het een 5-sterren beoordeling"
+
+#: library/plugin-display.php:37
+msgid "give this plugin a 5-star rating"
+msgstr "geef deze plug-in een 5-sterrenbeoordeling"
+
+#: library/plugin-settings.php:68
+msgid "Give USP a 5-star rating at WordPress.org"
+msgstr "Geef USP een 5-sterrenbeoordeling op WordPress.org"
+
+#: library/plugin-settings.php:41
+msgid "Go Pro"
+msgstr "Ga Pro"
+
+#: library/plugin-settings.php:438 library/plugin-display.php:488
+msgid "Google reCaptcha"
+msgstr "Google reCaptcha"
+
+#: library/shortcode-login.php:107
+msgid "Have an account?"
+msgstr "Een account hebben?"
+
+#: library/plugin-display.php:717
+msgid "Here are some examples showing how to configure this shortcode:"
+msgstr "Hier zijn enkele voorbeelden die laten zien hoe u deze shortcode kunt configureren:"
+
+#: library/plugin-display.php:344
+msgid "Hidden/Default Category"
+msgstr "Verborgen/Standaard Categorie"
+
+#: library/plugin-settings.php:63
+msgid "Homepage"
+msgstr "Startpagina"
+
+#: library/plugin-settings.php:172
+msgid "HTML5 Form + Default CSS"
+msgstr "HTML5-formulier + standaard CSS"
+
+#: library/plugin-settings.php:176
+msgid "HTML5 Form + Disable CSS"
+msgstr "HTML5-formulier + CSS uitschakelen"
+
+#. URI of the plugin
+#: 
+msgid "https://perishablepress.com/user-submitted-posts/"
+msgstr "https://perishablepress.com/user-submitted-posts/"
+
+#. Author URI of the plugin
+#: 
+msgid "https://plugin-planet.com/"
+msgstr "https://plugin-planet.com/"
+
+#: views/submission-form.php:169 views/submission-form-alt.php:184
+msgid "Human verification: leave this field empty."
+msgstr "Menselijke verificatie: laat dit veld leeg."
+
+#: library/plugin-display.php:297
+msgid "If multiple addresses are specified for the previous setting, include an equal number of addresses for this setting (in the same order)."
+msgstr "Als er meerdere adressen zijn opgegeven voor de vorige instelling, neem dan een gelijk aantal adressen op voor deze instelling (in dezelfde volgorde)."
+
+#: library/plugin-display.php:784
+msgid "If the user is logged in, display the post-submit form; or if the user is not logged in, display the login form:"
+msgstr "Als de gebruiker is ingelogd, geeft u het post-submit-formulier weer; of als de gebruiker niet is ingelogd, geeft u het aanmeldingsformulier weer:"
+
+#: library/plugin-display.php:69
+msgid "If you like this plugin, please"
+msgstr "Als je deze plug-in leuk vindt, alsjeblieft"
+
+#: library/plugin-display.php:586
+msgid "Image Display"
+msgstr "Beeldweergave"
+
+#: user-submitted-posts.php:1539
+msgid "Image height exceeds maximum"
+msgstr "Beeldhoogte overschrijdt maximum"
+
+#: library/plugin-display.php:593
+msgid "Image Markup"
+msgstr "Afbeeldingsopmaak"
+
+#: library/plugin-settings.php:468 library/plugin-display.php:512
+msgid "Image Uploads"
+msgstr "Afbeelding uploads"
+
+#: user-submitted-posts.php:1537
+msgid "Image width exceeds maximum"
+msgstr "Breedte afbeelding overschrijdt maximum"
+
+#: library/plugin-display.php:746
+msgid "in"
+msgstr "in"
+
+#: library/plugin-display.php:131
+msgid "in your theme:"
+msgstr "in je thema:"
+
+#: library/plugin-display.php:145
+msgid "Include JavaScript"
+msgstr "JavaScript opnemen"
+
+#: library/plugin-display.php:147
+msgid "Include required JavaScript files (recommended)"
+msgstr "Vereiste JavaScript-bestanden opnemen (aanbevolen)"
+
+#: library/enqueue-scripts.php:152
+msgid "Incorrect response."
+msgstr "Verkeerde reactie."
+
+#: library/plugin-display.php:138
+msgid "Installation Docs"
+msgstr "Installatiedocumenten"
+
+#. Author of the plugin
+#: 
+msgid "Jeff Starr"
+msgstr "Jeff Starr"
+
+#: library/plugin-display.php:830
+msgid "Jeff Starr on Twitter"
+msgstr "Jeff Starr op Twitter"
+
+#: library/plugin-display.php:726 library/plugin-display.php:798
+msgid "Learn&nbsp;more"
+msgstr "Meer informatie"
+
+#: library/plugin-display.php:809
+msgid "Leave this option disabled to remember your settings."
+msgstr "Laat deze optie uitgeschakeld om uw instellingen te onthouden."
+
+#: library/plugin-settings.php:92
+msgid "Like this plugin? Give it a"
+msgstr "Vind je deze plug-in leuk? Geef het een"
+
+#: library/plugin-display.php:139
+msgid "list of USP CSS selectors"
+msgstr "lijst met USP CSS-kiezers"
+
+#: user-submitted-posts.php:1621
+msgid "log in"
+msgstr "Log in"
+
+#: library/shortcode-login.php:108
+msgid "Log in or sign up! It&rsquo;s fast &amp; free!"
+msgstr "Meld je aan of schrijf je in! Het is snel &amp; vrij!"
+
+#: library/shortcode-login.php:182
+msgid "Log out"
+msgstr "Uitloggen"
+
+#: library/shortcode-login.php:88 library/shortcode-login.php:127
+msgid "Login"
+msgstr "Log in"
+
+#: library/shortcode-login.php:155
+msgid "Lose something?"
+msgstr "Iets kwijtraken?"
+
+#: library/plugin-display.php:35
+msgid "make a donation"
+msgstr "doe een donatie"
+
+#: library/plugin-display.php:35
+msgid "Make a donation via PayPal"
+msgstr "Doe een donatie via PayPal"
+
+#: library/plugin-display.php:483
+msgid "Make the challenge response case-sensitive"
+msgstr "Maak de uitdagingsreactie hoofdlettergevoelig"
+
+#: library/plugin-display.php:648
+msgid "Markup for Custom Field 1. You may include any of the following variables:"
+msgstr "Markering voor aangepast veld 1. U kunt een van de volgende variabelen opnemen:"
+
+#: library/plugin-display.php:661
+msgid "Markup for Custom Field 2. You may include any of the following variables:"
+msgstr "Markering voor aangepast veld 2. U kunt een van de volgende variabelen opnemen:"
+
+#: library/plugin-display.php:595
+msgid "Markup for each submitted image. You may include any of the following variables:"
+msgstr "Markering voor elke ingediende afbeelding. U kunt een van de volgende variabelen opnemen:"
+
+#: library/plugin-display.php:622
+msgid "Markup for submitted author/name. You may include"
+msgstr "Markup voor ingediende auteur/naam. U kunt opnemen:"
+
+#: library/plugin-display.php:609
+msgid "Markup for submitted email address. You may include any of the following variables:"
+msgstr "Markering voor ingediend e-mailadres. U kunt een van de volgende variabelen opnemen:"
+
+#: library/plugin-display.php:635
+msgid "Markup for submitted URL. You may include any of the following variables:"
+msgstr "Markup voor ingediende URL. U kunt een van de volgende variabelen opnemen:"
+
+#: library/plugin-display.php:567
+msgid "Maximum height (in pixels) for uploaded images"
+msgstr "Maximale hoogte (in pixels) voor geüploade afbeeldingen"
+
+#: library/plugin-display.php:565
+msgid "Maximum image height"
+msgstr "Maximale afbeeldingshoogte"
+
+#: library/plugin-display.php:560
+msgid "Maximum image width"
+msgstr "Maximale afbeeldingsbreedte"
+
+#: library/plugin-display.php:545
+msgid "Maximum number of images"
+msgstr "Maximaal aantal afbeeldingen"
+
+#: user-submitted-posts.php:1535
+msgid "Maximum number of images exceeded "
+msgstr "Maximum aantal afbeeldingen overschreden "
+
+#: library/plugin-display.php:547
+msgid "Maximum number of images for each submitted post"
+msgstr "Maximaal aantal afbeeldingen voor elk ingezonden bericht"
+
+#: library/plugin-display.php:562
+msgid "Maximum width (in pixels) for uploaded images"
+msgstr "Maximale breedte (in pixels) voor geüploade afbeeldingen"
+
+#: library/plugin-display.php:176
+msgid "Message displayed after successful post submission (basic markup allowed)"
+msgstr "Bericht weergegeven na succesvolle inzending van het bericht (basisopmaak toegestaan)"
+
+#: library/plugin-display.php:532
+msgid "Message displayed next to the file upload field (basic markup allowed)"
+msgstr "Bericht weergegeven naast het veld voor het uploaden van bestanden (basisopmaak toegestaan)"
+
+#: library/plugin-display.php:309
+msgid "Message for email alerts. Leave blank to use default message. You may include any of the following variables:"
+msgstr "Bericht voor e-mailwaarschuwingen. Laat leeg om het standaardbericht te gebruiken. U kunt een van de volgende variabelen opnemen:"
+
+#: library/plugin-display.php:557
+msgid "Minimum height (in pixels) for uploaded images"
+msgstr "Minimale hoogte (in pixels) voor geüploade afbeeldingen"
+
+#: library/plugin-display.php:555
+msgid "Minimum image height"
+msgstr "Minimale afbeeldingshoogte"
+
+#: user-submitted-posts.php:1538
+msgid "Minimum image height not met"
+msgstr "Minimale afbeeldingshoogte niet gehaald"
+
+#: library/plugin-display.php:550
+msgid "Minimum image width"
+msgstr "Minimale afbeeldingsbreedte"
+
+#: user-submitted-posts.php:1536
+msgid "Minimum image width not met"
+msgstr "Minimale afbeeldingsbreedte niet gehaald"
+
+#: library/plugin-display.php:540
+msgid "Minimum number of images"
+msgstr "Minimum aantal afbeeldingen"
+
+#: library/plugin-display.php:542
+msgid "Minimum number of images for each submitted post"
+msgstr "Minimum aantal afbeeldingen voor elk ingezonden bericht"
+
+#: user-submitted-posts.php:1534
+msgid "Minimum number of images not met"
+msgstr "Minimum aantal afbeeldingen niet gehaald"
+
+#: library/plugin-display.php:552
+msgid "Minimum width (in pixels) for uploaded images"
+msgstr "Minimale breedte (in pixels) voor geüploade afbeeldingen"
+
+#: library/plugin-display.php:105 library/plugin-display.php:215
+#: library/plugin-display.php:263 library/plugin-display.php:314
+#: library/plugin-display.php:359 library/plugin-display.php:387
+#: library/plugin-display.php:415 library/plugin-display.php:453
+#: library/plugin-display.php:570 library/plugin-display.php:665
+msgid "More Options"
+msgstr "Meer opties"
+
+#: library/plugin-display.php:339
+msgid "Multiple Categories"
+msgstr "Meerdere categorieën"
+
+#: library/plugin-display.php:613
+msgid "Name Display"
+msgstr "Naamweergave"
+
+#: library/plugin-display.php:620
+msgid "Name Markup"
+msgstr "Naam Markup"
+
+#: user-submitted-posts.php:1533
+msgid "Non-empty value for hidden field"
+msgstr "Niet-lege waarde voor verborgen veld"
+
+#: library/plugin-display.php:767
+msgid "Note that the url attribute accepts"
+msgstr "Merk op dat het url-attribuut accepteert"
+
+#: library/plugin-display.php:742
+msgid "Notes:"
+msgstr "Opmerkingen:"
+
+#: library/plugin-display.php:831
+msgid "Obsessive Web Design &amp; Development"
+msgstr "Obsessief webdesign &amp; Ontwikkeling"
+
+#: library/plugin-display.php:186
+msgid "Optional markup/text to include before the submission form (leave blank to disable)"
+msgstr "Optionele opmaak/tekst om op te nemen vóór het indieningsformulier (leeg laten om uit te schakelen)"
+
+#: library/plugin-display.php:364
+msgid "options, check out"
+msgstr "opties, check out"
+
+#: library/support-panel.php:61
+msgid "or"
+msgstr "of"
+
+#: library/support-panel.php:61
+msgid "or by making a"
+msgstr "of door een te maken"
+
+#: library/plugin-display.php:810
+msgid "Or, to go ahead and restore the default plugin options: check the box, save your settings, and then deactivate/reactivate the plugin."
+msgstr "Of, om door te gaan en de standaard plug-in-opties te herstellen: vink het vakje aan, sla uw instellingen op en deactiveer/activeer vervolgens de plug-in."
+
+#: library/plugin-display.php:715
+msgid "Or, use the template tag to display a list of submitted posts anywhere in your theme template:"
+msgstr "Of gebruik de sjabloontag om overal in uw themasjabloon een lijst met ingediende berichten weer te geven:"
+
+#: library/plugin-display.php:734
+msgid "Or, use the template tag to display an image gallery anywhere in your theme template:"
+msgstr "Of gebruik de sjabloontag om overal in uw themasjabloon een afbeeldingengalerij weer te geven:"
+
+#: library/plugin-display.php:693 library/plugin-display.php:706
+msgid "Or, use the template tag to display the form anywhere in your theme template:"
+msgstr "Of gebruik de sjabloontag om het formulier overal in uw themasjabloon weer te geven:"
+
+#: library/plugin-display.php:55
+msgid "Overview"
+msgstr "Overzicht"
+
+#: library/shortcode-login.php:118
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: library/plugin-settings.php:564
+msgid "Pending (default)"
+msgstr "In behandeling (standaard)"
+
+#: library/support-panel.php:51
+msgid "Perishable Press Books"
+msgstr "Bederfelijke persboeken"
+
+#: user-submitted-posts.php:1620 library/plugin-display.php:35
+msgid "Please"
+msgstr "Alstublieft"
+
+#: user-submitted-posts.php:1532
+msgid "Please check your email and try again"
+msgstr "Controleer uw e-mail en probeer het opnieuw"
+
+#: views/submission-form.php:21 views/submission-form-alt.php:40
+msgid "Please complete the required fields."
+msgstr "Gelieve de vereiste velden in te vullen."
+
+#: user-submitted-posts.php:85
+msgid "Please return to the"
+msgstr "Ga terug naar de"
+
+#: views/submission-form.php:92 views/submission-form-alt.php:107
+msgid "Please select a category.."
+msgstr "Selecteer een categorie.."
+
+#: views/submission-form.php:58 views/submission-form-alt.php:73
+msgid "Please select some tags.."
+msgstr "Selecteer enkele tags.."
+
+#: library/plugin-settings.php:860
+msgid "Please select your image(s) to upload."
+msgstr "Selecteer uw afbeelding(en) om te uploaden."
+
+#: library/support-panel.php:60
+msgid "Please show support by purchasing one of my"
+msgstr "Toon steun door een van mijn"
+
+#: library/plugin-settings.php:62 library/plugin-display.php:64
+#: library/plugin-display.php:829
+msgid "Plugin Homepage"
+msgstr "Plugin-startpagina"
+
+#: library/support-panel.php:52
+msgid "Plugin Planet"
+msgstr "Plugin Planet"
+
+#: library/plugin-display.php:79
+msgid "Plugin Settings"
+msgstr "Plugin-instellingen"
+
+#: library/support-panel.php:56
+msgid "plugins"
+msgstr "plug-ins"
+
+#: views/submission-form.php:90 views/submission-form-alt.php:105
+#: library/plugin-display.php:94
+msgid "Post Category"
+msgstr "Categorie posten"
+
+#: user-submitted-posts.php:1527
+msgid "Post category required"
+msgstr "Berichtcategorie vereist"
+
+#: views/submission-form.php:123 views/submission-form.php:124
+#: views/submission-form-alt.php:138 views/submission-form-alt.php:139
+#: library/plugin-display.php:95
+msgid "Post Content"
+msgstr "Inhoud plaatsen"
+
+#: user-submitted-posts.php:1528
+msgid "Post content required"
+msgstr "Inhoud plaatsen vereist"
+
+#: user-submitted-posts.php:1553
+msgid "Post not created. Please contact the site administrator for help."
+msgstr "Bericht niet gemaakt. Neem contact op met de sitebeheerder voor hulp."
+
+#: library/plugin-display.php:162
+msgid "Post Status"
+msgstr "Poststatus"
+
+#: library/plugin-display.php:165
+msgid "Post Status for submitted posts"
+msgstr "Poststatus voor verzonden berichten"
+
+#: views/submission-form.php:56 views/submission-form.php:65
+#: views/submission-form.php:66 views/submission-form-alt.php:71
+#: views/submission-form-alt.php:80 views/submission-form-alt.php:81
+#: library/plugin-display.php:93
+msgid "Post Tags"
+msgstr "Tags plaatsen"
+
+#: user-submitted-posts.php:1526
+msgid "Post tags required"
+msgstr "Posttags vereist"
+
+#: views/submission-form.php:49 views/submission-form.php:50
+#: views/submission-form-alt.php:64 views/submission-form-alt.php:65
+#: library/plugin-display.php:92
+msgid "Post Title"
+msgstr "Titel van bericht"
+
+#: user-submitted-posts.php:1524
+msgid "Post title required"
+msgstr "Titel van bericht vereist"
+
+#: library/plugin-display.php:155
+msgid "Post Type"
+msgstr "Berichttype"
+
+#: library/plugin-display.php:158
+msgid "Post Type for submitted posts"
+msgstr "Berichttype voor ingediende berichten"
+
+#: library/plugin-display.php:498
+msgid "Private Key"
+msgstr "Prive sleutel"
+
+#: library/shortcode-login.php:184
+msgid "Profile"
+msgstr "Profiel"
+
+#: library/plugin-display.php:493
+msgid "Public Key"
+msgstr "Publieke sleutel"
+
+#: library/plugin-settings.php:567
+msgid "Publish after "
+msgstr "Publiceren na "
+
+#: library/plugin-settings.php:566
+msgid "Publish after 1 approved post"
+msgstr "Publiceren na 1 goedgekeurd bericht"
+
+#: library/plugin-settings.php:565
+msgid "Publish immediately"
+msgstr "Direct publiceren"
+
+#: library/plugin-display.php:36
+msgid "Rate and review at the Plugin Directory"
+msgstr "Beoordeel en recenseer in de Plugin Directory"
+
+#: library/plugin-settings.php:69
+msgid "Rate this plugin&nbsp;&raquo;"
+msgstr "Beoordeel deze plug-in&nbsp;&raquo;"
+
+#: library/plugin-display.php:503
+msgid "reCaptcha Version"
+msgstr "reCaptcha-versie"
+
+#: library/plugin-display.php:279
+msgid "Receive Email Alert"
+msgstr "E-mailwaarschuwing ontvangen"
+
+#: library/plugin-display.php:169
+msgid "Redirect URL"
+msgstr "Omleidings-URL"
+
+#: library/plugin-display.php:171
+msgid "Redirect user to this URL after post submission (leave blank to stay on current page)"
+msgstr "Leid de gebruiker om naar deze URL na het indienen van een bericht (laat leeg om op de huidige pagina te blijven)"
+
+#: library/shortcode-login.php:89
+msgid "Register"
+msgstr "Register"
+
+#: library/shortcode-login.php:135
+msgid "Register for this site!"
+msgstr "Registreer voor deze website!"
+
+#: library/plugin-display.php:243
+msgid "Registered Email"
+msgstr "geregistreerde email"
+
+#: library/plugin-display.php:248
+msgid "Registered URL"
+msgstr "Geregistreerde URL"
+
+#: library/plugin-display.php:238
+msgid "Registered Username"
+msgstr "Geregistreerde gebruikersnaam"
+
+#: library/shortcode-login.php:124
+msgid "Remember me"
+msgstr "Onthoud mij"
+
+#: library/plugin-display.php:196
+msgid "Require submitted post titles to be unique (useful for preventing multiple/duplicate posts)"
+msgstr "Vereisen dat de titels van ingediende berichten uniek zijn (handig om meerdere/dubbele berichten te voorkomen)"
+
+#: library/plugin-display.php:253
+msgid "Require User Login"
+msgstr "Gebruikersaanmelding vereisen"
+
+#: library/plugin-display.php:255
+msgid "Require users to be logged in to WordPress to view/submit the form"
+msgstr "Vereisen dat gebruikers zijn aangemeld bij WordPress om het formulier te bekijken/verzenden"
+
+#: user-submitted-posts.php:83
+msgid "requires WordPress "
+msgstr "vereist WordPress "
+
+#: library/shortcode-misc.php:18
+msgid "Reset form"
+msgstr "Formulier resetten"
+
+#: library/plugin-display.php:758
+msgid "Reset Form Button"
+msgstr "Formulierknop resetten"
+
+#: library/shortcode-login.php:163
+msgid "Reset my password"
+msgstr "Reset mijn wachtwoord"
+
+#: library/plugin-display.php:813
+msgid "Restore default options upon plugin deactivation/reactivation"
+msgstr "Standaardopties herstellen na deactivering/reactivering van plug-ins"
+
+#: library/plugin-display.php:807
+msgid "Restore Defaults"
+msgstr "Standaardinstellingen herstellen"
+
+#: user-submitted-posts.php:1590
+msgid "Return to form"
+msgstr "Keer terug naar formulier"
+
+#: library/plugin-display.php:189
+msgid "Rich Text Editor"
+msgstr "Rich Text-editor"
+
+#: library/plugin-display.php:676
+msgid "Save All Changes"
+msgstr "sla alle veranderingen op"
+
+#: library/plugin-display.php:842
+msgid "Save Preference"
+msgstr "Voorkeur opslaan"
+
+#: library/plugin-display.php:815
+msgid "Save Settings"
+msgstr "Instellingen opslaan"
+
+#: library/plugin-settings.php:595
+msgid "Select categories to include in the Category field:"
+msgstr "Selecteer categorieën die u wilt opnemen in het veld Categorie:"
+
+#: library/plugin-display.php:281
+msgid "Send email alerts for new post submissions"
+msgstr "Stuur e-mailwaarschuwingen voor nieuwe inzendingen"
+
+#: library/plugin-settings.php:31
+msgid "Settings"
+msgstr "Instellingen"
+
+#: library/plugin-display.php:334
+msgid "Show categories"
+msgstr "Categorieën weergeven"
+
+#: library/plugin-display.php:820
+msgid "Show Support"
+msgstr "Toon ondersteuning"
+
+#: user-submitted-posts.php:618
+msgid "Show USP Posts"
+msgstr "USP-berichten weergeven"
+
+#: library/shortcode-login.php:136
+msgid "Sign up now for the good stuff."
+msgstr "Schrijf je nu in voor de goede dingen."
+
+#: library/shortcode-login.php:147
+msgid "Sign up!"
+msgstr "Aanmelden!"
+
+#: library/plugin-display.php:351
+msgid "Specify category ID(s) to use for &ldquo;Hidden/Default Category&rdquo; (separate multiple IDs with commas)"
+msgstr "Specificeer categorie-ID('s) om te gebruiken voor &ldquo;Verborgen/Standaard Categorie&rdquo; (scheid meerdere ID's met komma's)"
+
+#: library/plugin-display.php:234
+msgid "Specify the user that should be assigned as author for submitted posts"
+msgstr "Geef de gebruiker op die moet worden toegewezen als auteur voor ingediende berichten"
+
+#: library/plugin-display.php:302
+msgid "Subject line for email alerts. Leave blank to use default subject line. You may include any of the following variables:"
+msgstr "Onderwerpregel voor e-mailwaarschuwingen. Laat leeg om de standaard onderwerpregel te gebruiken. U kunt een van de volgende variabelen opnemen:"
+
+#: views/submission-form.php:197 views/submission-form-alt.php:212
+msgid "Submit Post"
+msgstr "Bericht verzenden"
+
+#: library/plugin-settings.php:10
+msgid "Submitted Posts"
+msgstr "Ingezonden berichten"
+
+#: user-submitted-posts.php:559
+msgid "Submitter Email: "
+msgstr "E-mail indiener: "
+
+#: user-submitted-posts.php:561
+msgid "Submitter IP: "
+msgstr "IP-adres van de indiener: "
+
+#: user-submitted-posts.php:558
+msgid "Submitter Name: "
+msgstr "Naam indiener: "
+
+#: user-submitted-posts.php:560
+msgid "Submitter URL: "
+msgstr "Inzender-URL: "
+
+#: library/plugin-display.php:174
+msgid "Success Message"
+msgstr "Succesbericht"
+
+#: library/shortcode-login.php:97 library/shortcode-login.php:102
+msgid "Success!"
+msgstr "Succes!"
+
+#: library/plugin-settings.php:866
+msgid "Success! Thank you for your submission."
+msgstr "Succes! Dank u voor uw inzending."
+
+#: library/plugin-display.php:66
+msgid "Support Forum"
+msgstr "Helpforum"
+
+#: library/plugin-display.php:364
+msgid "tag"
+msgstr "label"
+
+#: library/plugin-display.php:150
+msgid "Targeted Loading"
+msgstr "Gericht laden"
+
+#: library/plugin-display.php:450
+msgid "Text displayed next to checkbox. Tip: use curly brackets to output angle brackets, for example:"
+msgstr "Tekst weergegeven naast selectievakje. Tip: gebruik accolades om punthaken uit te voeren, bijvoorbeeld:"
+
+#: library/support-panel.php:59
+msgid "Thank you for using"
+msgstr "Bedankt voor het gebruiken"
+
+#: library/plugin-display.php:70
+msgid "THANK YOU for your support!"
+msgstr "Bedankt voor je ondersteuning!"
+
+#: library/plugin-display.php:137
+msgid "That will enable you to customize the form and styles as desired. For more info, check out the \"Custom Submission Form\" section in the"
+msgstr "Dat stelt u in staat om de vorm en stijlen naar wens aan te passen. Bekijk voor meer informatie het gedeelte \"Aangepast indieningsformulier\" in de"
+
+#: library/plugin-display.php:793
+msgid "The access shortcodes can be added to any WP Post or Page. So you can display forms and other content conditionally, based on user role and login status."
+msgstr "De toegangs-shortcodes kunnen aan elke WP-post of -pagina worden toegevoegd. U kunt formulieren en andere inhoud dus voorwaardelijk weergeven op basis van gebruikersrol en inlogstatus."
+
+#: user-submitted-posts.php:1551
+msgid "The file(s) could not be uploaded"
+msgstr "Het (de) bestand(en) konden niet worden geüpload"
+
+#: library/plugin-display.php:708
+msgid "The login/register form displays as a tabbed interface, so users can switch between login, register, and reset password."
+msgstr "Het aanmeldings-/registratieformulier wordt weergegeven als een interface met tabbladen, zodat gebruikers kunnen schakelen tussen inloggen, registreren en wachtwoord opnieuw instellen."
+
+#: library/plugin-display.php:725
+msgid "The pro version provides many more options for this shortcode."
+msgstr "De pro-versie biedt veel meer opties voor deze shortcode."
+
+#: library/plugin-display.php:797
+msgid "The pro version provides more flexibility with access-control shortcodes."
+msgstr "De pro-versie biedt meer flexibiliteit met toegangscontrole-shortcodes."
+
+#: library/plugin-settings.php:846
+msgid "There was an error. Please check required fields and try again."
+msgstr "Er is een fout opgetreden. Controleer de verplichte velden en probeer het opnieuw."
+
+#: library/plugin-display.php:212
+msgid "This setting enables any/all shortcodes in widgets (even shortcodes from other plugins)."
+msgstr "Deze instelling schakelt alle/alle shortcodes in widgets in (zelfs shortcodes van andere plug-ins)."
+
+#: library/plugin-display.php:762
+msgid "This shortcode accepts the following attributes:"
+msgstr "Deze shortcode accepteert de volgende attributen:"
+
+#: library/plugin-display.php:760
+msgid "This shortcode displays a link that resets the form to its original state:"
+msgstr "Deze shortcode geeft een link weer die het formulier terugzet naar de oorspronkelijke staat:"
+
+#: library/plugin-display.php:384
+msgid "This will be displayed as the field label on the form. Default: Custom Field 1"
+msgstr "Dit wordt weergegeven als het veldlabel op het formulier. Standaard: Aangepast veld 1"
+
+#: library/plugin-display.php:412
+msgid "This will be displayed as the field label on the form. Default: Custom Field 2"
+msgstr "Dit wordt weergegeven als het veldlabel op het formulier. Standaard: Aangepast veld 2"
+
+#: library/plugin-display.php:724 library/plugin-display.php:780
+#: library/plugin-display.php:796
+msgid "Tip:"
+msgstr "Tip:"
+
+#: library/plugin-display.php:623
+msgid "to display the submitted name."
+msgstr "om de ingediende naam weer te geven."
+
+#: library/plugin-display.php:490
+msgid "To enable Google reCaptcha, enter your public and private keys."
+msgstr "Voer uw openbare en privésleutels in om Google reCaptcha in te schakelen."
+
+#: library/plugin-display.php:767
+msgid "to get the current URL."
+msgstr "om de huidige URL te krijgen."
+
+#: library/plugin-display.php:753
+msgid "to get the URL of the full-size image"
+msgstr "om de URL van de afbeelding op volledige grootte te krijgen"
+
+#: library/plugin-display.php:781
+msgid "to include markup in the deny message, you can use"
+msgstr "om opmaak in het weigeringsbericht op te nemen, kunt u"
+
+#: library/plugin-display.php:781
+msgid "to output"
+msgstr "uit te voeren"
+
+#: library/plugin-display.php:745
+msgid "to output angle brackets"
+msgstr "om punthaken uit te voeren"
+
+#: library/plugin-display.php:473
+msgid "To prevent spam, enter a question that users must answer before submitting the form"
+msgstr "Voer een vraag in die gebruikers moeten beantwoorden voordat ze het formulier verzenden om spam te voorkomen"
+
+#: user-submitted-posts.php:1622
+msgid "to submit content!"
+msgstr "inhoud in te dienen!"
+
+#: user-submitted-posts.php:87
+msgid "to upgrade WordPress and try again."
+msgstr "om WordPress te upgraden en het opnieuw te proberen."
+
+#: library/plugin-display.php:22
+msgid "Toggle all panels"
+msgstr "Schakel alle panelen in"
+
+#: library/plugin-display.php:194
+msgid "Unique Titles"
+msgstr "Unieke titels"
+
+#: library/plugin-display.php:457
+msgid "unlimited checkbox fields"
+msgstr "onbeperkte checkbox-velden"
+
+#: library/plugin-display.php:391 library/plugin-display.php:419
+msgid "unlimited custom fields"
+msgstr "onbeperkte aangepaste velden"
+
+#: library/plugin-display.php:72
+msgid "Unlimited front-end forms"
+msgstr "Onbeperkte front-end formulieren"
+
+#: views/submission-form.php:138 views/submission-form-alt.php:153
+msgid "Upload an Image"
+msgstr "Upload een afbeelding"
+
+#: library/plugin-display.php:530
+msgid "Upload Message"
+msgstr "Bericht uploaden"
+
+#: library/plugin-settings.php:897
+msgid "URL"
+msgstr "URL"
+
+#: library/plugin-display.php:626
+msgid "URL Display"
+msgstr "URL-weergave"
+
+#: library/plugin-display.php:633
+msgid "URL Markup"
+msgstr "URL-opmaak"
+
+#: library/plugin-display.php:346
+msgid "Use a hidden field for the post category. This hides the category field and sets its value via the next option."
+msgstr "Gebruik een verborgen veld voor de berichtcategorie. Dit verbergt het categorieveld en stelt de waarde in via de volgende optie."
+
+#: library/plugin-display.php:745
+msgid "Use curly brackets"
+msgstr "Gebruik accolades"
+
+#: library/plugin-display.php:354
+msgid "Use Existing Tags"
+msgstr "Bestaande tags gebruiken"
+
+#: library/plugin-display.php:379 library/plugin-display.php:407
+#: library/plugin-display.php:440
+msgid "Use only alphanumeric, underscores, and dashes. If unsure, use the default name:"
+msgstr "Gebruik alleen alfanumerieke tekens, onderstrepingstekens en streepjes. Gebruik bij twijfel de standaardnaam:"
+
+#: library/plugin-display.php:750
+msgid "Use single straight quotes (instead of double quotes) in"
+msgstr "Gebruik enkele rechte aanhalingstekens (in plaats van dubbele aanhalingstekens) in"
+
+#: library/plugin-display.php:519
+msgid "Use submitted images as Featured Images. Requires theme support for Featured Images (aka Post Thumbnails)"
+msgstr "Gebruik ingediende afbeeldingen als Uitgelichte afbeeldingen. Vereist thema-ondersteuning voor Uitgelichte afbeeldingen (ook bekend als Post Thumbnails)"
+
+#: library/plugin-display.php:691 library/plugin-display.php:704
+msgid "Use the shortcode to display the form on any WP Post or Page:"
+msgstr "Gebruik de shortcode om het formulier op elke WP-post of -pagina weer te geven:"
+
+#: library/plugin-display.php:250
+msgid "Use the user&rsquo;s Profile URL as the value of the URL field (valid when the user is logged in to WordPress)"
+msgstr "Gebruik de profiel-URL van de gebruiker als de waarde van het URL-veld (geldig wanneer de gebruiker is ingelogd op WordPress)"
+
+#: library/plugin-display.php:245
+msgid "Use the user&rsquo;s registered email as the value of the Email field (valid when the user is logged in to WordPress)"
+msgstr "Gebruik het geregistreerde e-mailadres van de gebruiker als de waarde van het veld E-mail (geldig wanneer de gebruiker is aangemeld bij WordPress)"
+
+#: library/plugin-display.php:240
+msgid "Use the user&rsquo;s registered username for the Name field (valid when the user is logged in to WordPress)"
+msgstr "Gebruik de geregistreerde gebruikersnaam van de gebruiker voor het veld Naam (geldig wanneer de gebruiker is aangemeld bij WordPress)"
+
+#: library/plugin-display.php:732
+msgid "Use this shortcode to display a gallery of uploaded images for each submitted post:"
+msgstr "Gebruik deze shortcode om een galerij met geüploade afbeeldingen weer te geven voor elk ingediend bericht:"
+
+#: library/plugin-display.php:713
+msgid "Use this shortcode to display a list of submitted posts on any WP Post or Page:"
+msgstr "Gebruik deze shortcode om een lijst met ingezonden berichten op elke WP-post of -pagina weer te geven:"
+
+#: library/plugin-display.php:90
+msgid "User Email"
+msgstr "E-mail gebruiker"
+
+#: user-submitted-posts.php:1531
+msgid "User email required"
+msgstr "E-mailadres van gebruiker vereist"
+
+#: user-submitted-posts.php:1522
+msgid "User login required"
+msgstr "Gebruikerslogin vereist"
+
+#: library/plugin-display.php:89
+msgid "User Name"
+msgstr "Gebruikersnaam"
+
+#: user-submitted-posts.php:1523
+msgid "User name required"
+msgstr "Gebruikersnaam (verplicht"
+
+#: library/plugin-display.php:226
+msgid "User Settings"
+msgstr "Gebruikersinstellingen"
+
+#: user-submitted-posts.php:139
+msgid "User Submitted Post"
+msgstr "Door gebruiker verzonden bericht"
+
+#: user-submitted-posts.php:528
+msgid "User Submitted Post Info"
+msgstr "Door gebruiker ingediende berichtinformatie"
+
+#. Name of the plugin
+#: user-submitted-posts.php:44 library/support-panel.php:7
+msgid "User Submitted Posts"
+msgstr "Door gebruiker verzonden berichten"
+
+#: library/plugin-display.php:91
+msgid "User URL"
+msgstr "Gebruikers-URL"
+
+#: user-submitted-posts.php:1525
+msgid "User URL required"
+msgstr "Gebruikers-URL vereist"
+
+#: library/shortcode-login.php:114 library/shortcode-login.php:139
+msgid "Username"
+msgstr "gebruikersnaam"
+
+#: library/shortcode-login.php:159
+msgid "Username or Email"
+msgstr "Gebruikersnaam of email"
+
+#: user-submitted-posts.php:619 library/plugin-display.php:59
+msgid "USP"
+msgstr "USP"
+
+#: library/plugin-display.php:690
+msgid "USP enables you to display a post-submission form anywhere on your site."
+msgstr "Met USP kunt u overal op uw site een formulier na het indienen weergeven."
+
+#: library/plugin-display.php:60 library/plugin-display.php:109
+#: library/plugin-display.php:219 library/plugin-display.php:267
+#: library/plugin-display.php:320 library/plugin-display.php:365
+#: library/plugin-display.php:393 library/plugin-display.php:421
+#: library/plugin-display.php:459 library/plugin-display.php:574
+#: library/plugin-display.php:669 library/plugin-display.php:697
+msgid "USP Pro"
+msgstr "USP Pro"
+
+#: library/plugin-display.php:772
+msgid "USP provides three shortcodes to control access and restrict content."
+msgstr "USP biedt drie shortcodes om de toegang te beheren en inhoud te beperken."
+
+#: library/plugin-settings.php:316
+msgid "v2 (I&rsquo;m not a robot)"
+msgstr "v2 (ik ben geen robot)"
+
+#: library/plugin-settings.php:320
+msgid "v3 (Hidden reCaptcha)"
+msgstr "v3 (verborgen reCaptcha)"
+
+#: views/submission-form.php:131 views/submission-form-alt.php:146
+msgid "Verification"
+msgstr "Verificatie"
+
+#: library/shortcode-misc.php:135
+msgid "View full post"
+msgstr "Volledig bericht bekijken"
+
+#: library/plugin-display.php:696
+msgid "Want more than one form? Create unlimited submission forms, registration forms, contact forms and more with"
+msgstr "Wilt u meer dan één formulier? Maak onbeperkt inzendingsformulieren, registratieformulieren, contactformulieren en meer met"
+
+#: library/plugin-display.php:31
+msgid "We need your support!"
+msgstr "We hebben je hulp nodig!"
+
+#: library/shortcode-login.php:177
+msgid "Welcome, "
+msgstr "Welkom, "
+
+#: library/plugin-display.php:126
+msgid "With this option, you can copy the plugin&rsquo;s default templates:"
+msgstr "Met deze optie kunt u de standaardsjablonen van de plug-in kopiëren:"
+
+#: user-submitted-posts.php:86
+msgid "WordPress Admin Area"
+msgstr "WordPress-beheerdersgebied"
+
+#: library/plugin-settings.php:156
+msgid "WP Page"
+msgstr "WP-pagina"
+
+#: library/plugin-settings.php:152
+msgid "WP Post (recommended)"
+msgstr "WP-bericht (aanbevolen)"
+
+#: library/plugin-display.php:703
+msgid "You also can display a simple form that enables users to log in, register, or reset their password."
+msgstr "U kunt ook een eenvoudig formulier weergeven waarmee gebruikers kunnen inloggen, registreren of hun wachtwoord opnieuw kunnen instellen."
+
+#: library/plugin-display.php:736
+msgid "You can customize using any of the follwing attributes:"
+msgstr "U kunt aanpassen met behulp van een van de volgende kenmerken:"
+
+#: views/submission-form.php:37 views/submission-form.php:38
+#: views/submission-form-alt.php:52 views/submission-form-alt.php:53
+#: library/shortcode-login.php:143
+msgid "Your Email"
+msgstr "Jouw email"
+
+#: library/plugin-display.php:41
+msgid "Your generous support enables continued development of this free plugin. Thank you!"
+msgstr "Uw genereuze steun maakt de verdere ontwikkeling van deze gratis plug-in mogelijk. Dank je!"
+
+#: library/support-panel.php:62
+msgid "Your generous support helps future development of"
+msgstr "Uw genereuze steun helpt toekomstige ontwikkeling van"
+
+#: views/submission-form.php:31 views/submission-form.php:32
+#: views/submission-form-alt.php:46 views/submission-form-alt.php:47
+msgid "Your Name"
+msgstr "Uw naam"
+
+#: views/submission-form.php:43 views/submission-form.php:44
+#: views/submission-form-alt.php:58 views/submission-form-alt.php:59
+msgid "Your URL"
+msgstr "Uw URL"
+
+#: library/plugin-settings.php:96
+msgid "★★★★★ rating&nbsp;&raquo;"
+msgstr "★★★★★ beoordeling&raquo;"
+

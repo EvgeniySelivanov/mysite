@@ -24,8 +24,9 @@ border-radius: 4% 0 0 4%;
   align-items: center;
   /* height: 90vh; */
   /* width: 100%; */
-  background: url("/mysite/wp-content/themes/mytheme/img/bg-contact-page.jpg")100% 100% no-repeat;
-  background-size: cover;
+  background: url("/mysite/wp-content/themes/mytheme/img/bg-contact-page.jpg") no-repeat;
+  background-size:100% 100%;
+  
   z-index: 1;
 }
 @media(max-width:1400px){

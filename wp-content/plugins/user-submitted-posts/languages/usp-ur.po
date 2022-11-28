@@ -1,0 +1,1676 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: USP 20221004\n"
+"Language: ur\n"
+
+#: library/plugin-settings.php:567
+msgid " approved posts"
+msgstr " منظور شدہ پوسٹس"
+
+#: user-submitted-posts.php:1499
+msgid " file"
+msgstr " فائل"
+
+#: user-submitted-posts.php:1496
+msgid " file required"
+msgstr " فائل کی ضرورت ہے"
+
+#: user-submitted-posts.php:1498
+msgid " files"
+msgstr " فائلوں"
+
+#: user-submitted-posts.php:1495
+msgid " files required"
+msgstr " فائلوں کی ضرورت ہے"
+
+#: user-submitted-posts.php:84
+msgid " or higher, and has been deactivated! "
+msgstr " یا اس سے زیادہ، اور اسے غیر فعال کر دیا گیا ہے! "
+
+#: user-submitted-posts.php:1501 user-submitted-posts.php:1502
+#: user-submitted-posts.php:1503 user-submitted-posts.php:1504
+msgid " pixels"
+msgstr " پکسلز"
+
+#: user-submitted-posts.php:1541 user-submitted-posts.php:1542
+msgid " required"
+msgstr " کی ضرورت ہے"
+
+#: library/plugin-display.php:535
+msgid "&ldquo;Add another image&rdquo; link"
+msgstr "&ldquo;ایک اور تصویر شامل کریں&rdquo; لنک"
+
+#: library/plugin-display.php:61
+msgid "&mdash; the ultimate solution for user-generated content."
+msgstr "&mdash; صارف کے تیار کردہ مواد کا حتمی حل۔"
+
+#: library/plugin-settings.php:180
+msgid "(Provide your own form template &amp; styles)"
+msgstr "(اپنا اپنا فارم ٹیمپلیٹ اور اسٹائل فراہم کریں)"
+
+#: library/plugin-settings.php:176
+msgid "(Provide your own styles)"
+msgstr "(اپنی اپنی طرزیں فراہم کریں)"
+
+#: library/plugin-settings.php:172
+msgid "(Recommended)"
+msgstr "(تجویز کردہ)"
+
+#: library/plugin-display.php:131
+msgid "..and upload them into a directory named"
+msgstr "..اور انہیں نام کی ڈائریکٹری میں اپ لوڈ کریں۔"
+
+#: library/plugin-display.php:770
+msgid "Access Control"
+msgstr "رسائی کنٹرول"
+
+#: library/plugin-display.php:468
+msgid "Add a challenge question to help stop spam. Tip: make the question easy to answer for any human."
+msgstr "اسپام کو روکنے میں مدد کے لیے ایک چیلنج سوال شامل کریں۔ مشورہ: کسی بھی انسان کے لیے سوال کا جواب آسان بنائیں۔"
+
+#: views/submission-form.php:147 views/submission-form-alt.php:162
+msgid "Add another image"
+msgstr "ایک اور تصویر شامل کریں۔"
+
+#: library/plugin-display.php:291
+msgid "Additional recipients for email alerts. Use commas to separate multiple addresses."
+msgstr "ای میل الرٹس کے لیے اضافی وصول کنندگان۔ متعدد پتوں کو الگ کرنے کے لیے کوما استعمال کریں۔"
+
+#: library/shortcode-login.php:183
+msgid "Admin"
+msgstr "ایڈمن"
+
+#: library/plugin-settings.php:200 library/plugin-settings.php:224
+#: library/plugin-settings.php:248 library/plugin-settings.php:272
+#: library/plugin-settings.php:296
+msgid "After post content"
+msgstr "مواد پوسٹ کرنے کے بعد"
+
+#: user-submitted-posts.php:1512
+msgid "An error occurred. Please go back and try again."
+msgstr "ایک خرابی آگئی. براہ کرم واپس جائیں اور دوبارہ کوشش کریں۔"
+
+#: library/plugin-display.php:363 library/plugin-display.php:746
+#: library/plugin-display.php:751
+msgid "and"
+msgstr "اور"
+
+#: library/support-panel.php:63
+msgid "and is greatly appreciated."
+msgstr "اور بہت تعریف کی جاتی ہے."
+
+#: library/plugin-display.php:35
+msgid "and/or"
+msgstr "اور/یا"
+
+#: views/submission-form.php:85 views/submission-form-alt.php:100
+msgid "Antispam Question"
+msgstr "اینٹی سپیم سوال"
+
+#: library/support-panel.php:65
+msgid "Any size donation helps me to continue developing this free plugin and other awesome WordPress resources."
+msgstr "کسی بھی سائز کا عطیہ مجھے اس مفت پلگ ان اور دیگر زبردست ورڈپریس وسائل کی ترقی جاری رکھنے میں مدد کرتا ہے۔"
+
+#: library/plugin-display.php:231
+msgid "Assigned Author"
+msgstr "تفویض کردہ مصنف"
+
+#: library/plugin-display.php:747 library/plugin-display.php:751
+msgid "attributes"
+msgstr "صفات"
+
+#: library/plugin-display.php:583
+msgid "Automatically display images and more."
+msgstr "خودکار طور پر تصاویر اور مزید ڈسپلے کریں۔"
+
+#: library/plugin-settings.php:196 library/plugin-settings.php:220
+#: library/plugin-settings.php:244 library/plugin-settings.php:268
+#: library/plugin-settings.php:292
+msgid "Before post content"
+msgstr "مواد پوسٹ کرنے سے پہلے"
+
+#: library/support-panel.php:55
+msgid "books"
+msgstr "کتابیں"
+
+#: library/plugin-display.php:829
+msgid "by"
+msgstr "کی طرف سے"
+
+#: library/plugin-display.php:152
+msgid "By default, CSS &amp; JavaScript files are loaded on every page. To load only on specific page(s), enter the URL(s) here. Use commas to separate multiple URLs. Leave blank to load on all pages."
+msgstr "پہلے سے طے شدہ طور پر، CSS &amp; JavaScript فائلیں ہر صفحے پر لوڈ ہوتی ہیں۔ صرف مخصوص صفحہ (صفحات) پر لوڈ کرنے کے لیے، یہاں URL درج کریں۔ متعدد URLs کو الگ کرنے کے لیے کوما استعمال کریں۔ تمام صفحات پر لوڈ کرنے کے لیے خالی چھوڑ دیں۔"
+
+#: library/plugin-display.php:430
+msgid "By default, this displays an &ldquo;Agree to Terms&rdquo; checkbox. Customize as desired."
+msgstr "پہلے سے طے شدہ طور پر، یہ ایک &ldquo;شرائط سے اتفاق کرتا ہے&rdquo; چیک باکس حسب ضرورت حسب ضرورت بنائیں۔"
+
+#: library/plugin-display.php:753
+msgid "Can use"
+msgstr "استعمال کر سکتے ہیں"
+
+#: library/plugin-display.php:481
+msgid "Case-sensitivity"
+msgstr "کیس کی حساسیت"
+
+#: library/plugin-display.php:332
+msgid "Categories"
+msgstr "اقسام"
+
+#: library/plugin-display.php:327
+msgid "Categories &amp; Tags"
+msgstr "زمرہ جات &amp; ٹیگز"
+
+#: library/plugin-display.php:363
+msgid "category"
+msgstr "قسم"
+
+#: library/plugin-display.php:349
+msgid "Category ID for Hidden Field"
+msgstr "پوشیدہ فیلڈ کے لیے زمرہ ID"
+
+#: library/plugin-settings.php:408 library/plugin-display.php:466
+#: library/plugin-display.php:471
+msgid "Challenge Question"
+msgstr "چیلنج سوال"
+
+#: library/plugin-display.php:476
+msgid "Challenge Response"
+msgstr "چیلنج کا جواب"
+
+#: library/plugin-display.php:319 library/plugin-display.php:392
+#: library/plugin-display.php:420 library/plugin-display.php:458
+msgid "check out"
+msgstr "اس کو دیکھو"
+
+#: library/plugin-display.php:754
+msgid "Check out the source code inline notes for more info"
+msgstr "مزید معلومات کے لیے سورس کوڈ ان لائن نوٹس دیکھیں"
+
+#: library/plugin-display.php:46
+msgid "Check this box if you have shown support"
+msgstr "اگر آپ نے تعاون ظاہر کیا ہے تو اس باکس کو چیک کریں۔"
+
+#: library/shortcode-login.php:98
+msgid "Check your email for the password."
+msgstr "پاس ورڈ کے لیے اپنا ای میل چیک کریں۔"
+
+#: library/shortcode-login.php:103
+msgid "Check your email to reset your password."
+msgstr "اپنا پاس ورڈ دوبارہ ترتیب دینے کے لیے اپنا ای میل چیک کریں۔"
+
+#: library/plugin-display.php:443
+msgid "Checkbox Error"
+msgstr "چیک باکس کی خرابی۔"
+
+#: library/plugin-display.php:438
+msgid "Checkbox Name"
+msgstr "چیک باکس کا نام"
+
+#: library/plugin-display.php:448
+msgid "Checkbox Text"
+msgstr "چیک باکس ٹیکسٹ"
+
+#: library/plugin-display.php:85
+msgid "Choose fields to display on the front-end form."
+msgstr "فرنٹ اینڈ فارم پر ظاہر کرنے کے لیے فیلڈز کا انتخاب کریں۔"
+
+#: library/plugin-display.php:506
+msgid "Choose reCaptcha version"
+msgstr "reCaptcha ورژن کا انتخاب کریں۔"
+
+#: library/plugin-display.php:374
+msgid "Configure Custom Field #1."
+msgstr "حسب ضرورت فیلڈ # 1 ترتیب دیں۔"
+
+#: library/plugin-display.php:402
+msgid "Configure Custom Field #2."
+msgstr "حسب ضرورت فیلڈ #2 ترتیب دیں۔"
+
+#: library/plugin-display.php:276
+msgid "Configure email notifications for new submitted posts."
+msgstr "نئی جمع کرائی گئی پوسٹس کے لیے ای میل اطلاعات کو ترتیب دیں۔"
+
+#: library/plugin-display.php:118
+msgid "Configure general settings. Note: the default settings work fine for most cases."
+msgstr "عام ترتیبات کو ترتیب دیں۔ نوٹ: ڈیفالٹ سیٹنگز زیادہ تر معاملات میں ٹھیک کام کرتی ہیں۔"
+
+#: library/plugin-display.php:514
+msgid "Configure settings for image uploads."
+msgstr "امیج اپ لوڈز کے لیے سیٹنگز کنفیگر کریں۔"
+
+#: library/plugin-display.php:329
+msgid "Configure settings for the Category and Tag fields."
+msgstr "زمرہ اور ٹیگ فیلڈز کے لیے سیٹنگز ترتیب دیں۔"
+
+#: library/plugin-display.php:228
+msgid "Configure user settings."
+msgstr "صارف کی ترتیبات کو ترتیب دیں۔"
+
+#: library/shortcode-login.php:180
+msgid "Congratulations, you&rsquo;re logged in."
+msgstr "مبارک ہو، آپ لاگ ان ہو گئے ہیں۔"
+
+#: user-submitted-posts.php:1529 user-submitted-posts.php:1530
+msgid "Correct captcha required"
+msgstr "درست کیپچا درکار ہے۔"
+
+#: library/plugin-display.php:296
+msgid "Custom address for the email &ldquo;From&rdquo; header (see plugin FAQs for info)."
+msgstr "ای میل کے لیے حسب ضرورت پتہ &ldquo;منجانب&rdquo; ہیڈر (معلومات کے لیے پلگ ان کے عمومی سوالنامہ دیکھیں)۔"
+
+#: library/plugin-display.php:428
+msgid "Custom Checkbox"
+msgstr "حسب ضرورت چیک باکس"
+
+#: user-submitted-posts.php:1509
+msgid "Custom checkbox required"
+msgstr "حسب ضرورت چیک باکس درکار ہے۔"
+
+#: library/plugin-display.php:184
+msgid "Custom Content"
+msgstr "حسب ضرورت مواد"
+
+#: user-submitted-posts.php:1506 library/core-functions.php:306
+#: library/plugin-settings.php:369 library/plugin-settings.php:907
+#: library/plugin-display.php:372
+msgid "Custom Field 1"
+msgstr "حسب ضرورت فیلڈ 1"
+
+#: library/plugin-display.php:639
+msgid "Custom Field 1 Display"
+msgstr "حسب ضرورت فیلڈ 1 ڈسپلے"
+
+#: library/plugin-display.php:646
+msgid "Custom Field 1 Markup"
+msgstr "حسب ضرورت فیلڈ 1 مارک اپ"
+
+#: user-submitted-posts.php:1507 library/core-functions.php:255
+#: library/plugin-settings.php:374 library/plugin-settings.php:910
+#: library/plugin-display.php:400
+msgid "Custom Field 2"
+msgstr "حسب ضرورت فیلڈ 2"
+
+#: library/plugin-display.php:652
+msgid "Custom Field 2 Display"
+msgstr "اپنی مرضی کے مطابق فیلڈ 2 ڈسپلے"
+
+#: library/plugin-display.php:659
+msgid "Custom Field 2 Markup"
+msgstr "حسب ضرورت فیلڈ 2 مارک اپ"
+
+#: library/plugin-display.php:382 library/plugin-display.php:410
+msgid "Custom Field Label"
+msgstr "اپنی مرضی کے مطابق فیلڈ لیبل"
+
+#: library/plugin-display.php:377 library/plugin-display.php:405
+msgid "Custom Field Name"
+msgstr "اپنی مرضی کے مطابق فیلڈ کا نام"
+
+#: library/plugin-settings.php:180
+msgid "Custom Form + Custom CSS"
+msgstr "کسٹم فارم + کسٹم سی ایس ایس"
+
+#: library/plugin-display.php:537
+msgid "Custom markup for the &ldquo;Add another image&rdquo; link. Leave blank to use the default markup (recommended)."
+msgstr "&ldquo;دوسری تصویر شامل کریں&rdquo; کے لیے حسب ضرورت مارک اپ لنک. ڈیفالٹ مارک اپ استعمال کرنے کے لیے خالی چھوڑ دیں (تجویز کردہ)۔"
+
+#: library/plugin-display.php:522
+msgid "Default Featured Image"
+msgstr "ڈیفالٹ نمایاں تصویر"
+
+#: library/plugin-settings.php:481
+msgid "Disable"
+msgstr "غیر فعال کریں۔"
+
+#: library/plugin-display.php:201
+msgid "Disable all required attributes on form fields (useful for troubleshooting error messages)"
+msgstr "فارم فیلڈز پر تمام مطلوبہ صفات کو غیر فعال کریں (خرابی کے پیغامات کی خرابی کے لیے مفید)"
+
+#: library/plugin-display.php:204
+msgid "Disable IP Tracking"
+msgstr "IP ٹریکنگ کو غیر فعال کریں۔"
+
+#: library/plugin-display.php:258
+msgid "Disable Replace Author"
+msgstr "مصنف کو تبدیل کرنے کو غیر فعال کریں۔"
+
+#: library/plugin-display.php:199
+msgid "Disable Required"
+msgstr "غیر فعال کرنا ضروری ہے۔"
+
+#: library/plugin-settings.php:350 library/plugin-settings.php:391
+#: library/plugin-settings.php:421 library/plugin-settings.php:451
+msgid "Disable this field"
+msgstr "اس فیلڈ کو غیر فعال کریں۔"
+
+#: library/plugin-display.php:356
+msgid "Display a select/dropdown menu of existing tags (valid when Tag field is displayed on the form)"
+msgstr "موجودہ ٹیگز کا سلیکٹ/ڈراپ ڈاؤن مینو دکھائیں (جب فارم پر ٹیگ فیلڈ ظاہر ہو تو درست ہے)"
+
+#: library/plugin-display.php:433
+msgid "Display Checkbox"
+msgstr "چیک باکس ڈسپلے کریں۔"
+
+#: library/plugin-display.php:773
+msgid "Display content only to users with a specific capability:"
+msgstr "صرف ایک مخصوص صلاحیت کے حامل صارفین کو مواد دکھائیں:"
+
+#: library/plugin-display.php:775
+msgid "Display content to logged-in users:"
+msgstr "لاگ ان صارفین کو مواد دکھائیں:"
+
+#: library/plugin-display.php:777
+msgid "Display content to visitors only:"
+msgstr "صرف زائرین کو مواد دکھائیں:"
+
+#: library/plugin-display.php:435
+msgid "Display custom checkbox on the submission form"
+msgstr "جمع کرانے کے فارم پر حسب ضرورت چیک باکس دکھائیں۔"
+
+#: library/plugin-display.php:641
+msgid "Display Custom Field 1:"
+msgstr "حسب ضرورت فیلڈ 1 ڈسپلے کریں:"
+
+#: library/plugin-display.php:654
+msgid "Display Custom Field 2:"
+msgstr "حسب ضرورت فیلڈ 2 ڈسپلے کریں:"
+
+#: library/plugin-display.php:730
+msgid "Display image gallery"
+msgstr "تصویری گیلری ڈسپلے کریں۔"
+
+#: library/plugin-display.php:615
+msgid "Display submitted author/name:"
+msgstr "جمع کردہ مصنف/نام دکھائیں:"
+
+#: library/plugin-display.php:602
+msgid "Display submitted email address:"
+msgstr "جمع کرایا ای میل پتہ دکھائیں:"
+
+#: library/plugin-display.php:588
+msgid "Display submitted images:"
+msgstr "جمع کرائی گئی تصاویر دکھائیں:"
+
+#: library/plugin-display.php:628
+msgid "Display submitted URL:"
+msgstr "جمع کرایا یو آر ایل دکھائیں:"
+
+#: library/plugin-display.php:684
+msgid "Display the Form"
+msgstr "فارم ڈسپلے کریں۔"
+
+#: library/plugin-display.php:701
+msgid "Display the login/register form"
+msgstr "لاگ ان/رجسٹر فارم ڈسپلے کریں۔"
+
+#: library/plugin-display.php:688
+msgid "Display the submit-post form"
+msgstr "جمع کرانے کے بعد فارم ڈسپلے کریں۔"
+
+#: library/plugin-display.php:711
+msgid "Display user-submitted posts"
+msgstr "صارف کی طرف سے جمع کرائی گئی پوسٹس دکھائیں۔"
+
+#: library/plugin-display.php:206
+msgid "Do not collect or store any user IP address (useful for complying with privacy regulations)"
+msgstr "کسی بھی صارف کا IP پتہ جمع یا ذخیرہ نہ کریں (رازداری کے ضوابط کی تعمیل کے لیے مفید)"
+
+#: library/plugin-settings.php:204 library/plugin-settings.php:228
+#: library/plugin-settings.php:252 library/plugin-settings.php:276
+#: library/plugin-settings.php:300
+msgid "Do not display"
+msgstr "ظاہر نہ کریں۔"
+
+#: library/plugin-display.php:260
+msgid "Do not replace post author with submitted user name"
+msgstr "پوسٹ مصنف کو جمع کرائے گئے صارف نام سے تبدیل نہ کریں۔"
+
+#: library/plugin-display.php:65
+msgid "Documentation"
+msgstr "دستاویزی"
+
+#: library/support-panel.php:53
+msgid "Donate via PayPal"
+msgstr "پے پال کے ذریعے عطیہ کریں۔"
+
+#: library/support-panel.php:57
+msgid "donation"
+msgstr "عطیہ"
+
+#: library/plugin-settings.php:563
+msgid "Draft"
+msgstr "مسودہ"
+
+#: user-submitted-posts.php:1554
+msgid "Duplicate post title. Please try again."
+msgstr "ڈپلیکیٹ پوسٹ کا عنوان۔ دوبارہ کوشش کریں."
+
+#: library/plugin-settings.php:895
+msgid "Email"
+msgstr "ای میل"
+
+#: library/plugin-display.php:294
+msgid "Email &ldquo;From&rdquo; Address"
+msgstr "ای میل &ldquo;منجانب&rdquo; پتہ"
+
+#: library/plugin-display.php:289
+msgid "Email Address for Alerts"
+msgstr "انتباہات کے لیے ای میل ایڈریس"
+
+#: library/plugin-display.php:307
+msgid "Email Alert Message"
+msgstr "ای میل الرٹ پیغام"
+
+#: library/plugin-display.php:300
+msgid "Email Alert Subject"
+msgstr "ای میل الرٹ کا موضوع"
+
+#: library/plugin-display.php:274
+msgid "Email Alerts"
+msgstr "ای میل الرٹس"
+
+#: library/plugin-display.php:600
+msgid "Email Display"
+msgstr "ای میل ڈسپلے"
+
+#: library/plugin-display.php:607
+msgid "Email Markup"
+msgstr "ای میل مارک اپ"
+
+#: library/plugin-display.php:318
+msgid "email-alert options"
+msgstr "ای میل الرٹ کے اختیارات"
+
+#: library/plugin-settings.php:480
+msgid "Enable"
+msgstr "فعال"
+
+#: library/plugin-settings.php:348 library/plugin-settings.php:389
+#: library/plugin-settings.php:420 library/plugin-settings.php:450
+msgid "Enable and require"
+msgstr "فعال کریں اور درکار ہوں۔"
+
+#: library/plugin-settings.php:349 library/plugin-settings.php:390
+msgid "Enable but do not require"
+msgstr "فعال کریں لیکن ضرورت نہیں ہے۔"
+
+#: library/plugin-display.php:284
+msgid "Enable HTML Format"
+msgstr "HTML فارمیٹ کو فعال کریں۔"
+
+#: library/plugin-display.php:286
+msgid "Enable HTML format for email alert messages"
+msgstr "ای میل الرٹ پیغامات کے لیے HTML فارمیٹ کو فعال کریں۔"
+
+#: library/plugin-display.php:191
+msgid "Enable RTE/Visual Editor for the Post Content field"
+msgstr "پوسٹ مواد فیلڈ کے لیے RTE/بصری ایڈیٹر کو فعال کریں۔"
+
+#: library/plugin-display.php:209
+msgid "Enable Shortcodes"
+msgstr "شارٹ کوڈز کو فعال کریں۔"
+
+#: library/plugin-display.php:211
+msgid "Enable shortcodes in widgets. By default, WordPress does not enable shortcodes in widgets. "
+msgstr "وجیٹس میں شارٹ کوڈز کو فعال کریں۔ پہلے سے طے شدہ طور پر، ورڈپریس ویجٹ میں شارٹ کوڈز کو فعال نہیں کرتا ہے۔ "
+
+#: library/plugin-display.php:341
+msgid "Enable users to select multiple categories"
+msgstr "صارفین کو متعدد زمرے منتخب کرنے کے قابل بنائیں"
+
+#: library/plugin-display.php:573
+msgid "Enable users to upload other file types (like PDF, Word, Zip, videos, and more), check out"
+msgstr "صارفین کو فائل کی دوسری اقسام (جیسے PDF، Word، Zip، ویڈیوز وغیرہ) اپ لوڈ کرنے کے قابل بنائیں، چیک آؤٹ کریں۔"
+
+#. Description of the plugin
+#: 
+msgid "Enables your visitors to submit posts and images from anywhere on your site."
+msgstr "آپ کے زائرین کو آپ کی سائٹ پر کہیں سے بھی پوسٹس اور تصاویر جمع کرانے کے قابل بناتا ہے۔"
+
+#: library/plugin-display.php:59
+msgid "enables your visitors to submit posts and upload images from the front-end of your site. "
+msgstr "آپ کے زائرین کو آپ کی سائٹ کے فرنٹ اینڈ سے پوسٹس جمع کرانے اور تصاویر اپ لوڈ کرنے کے قابل بناتا ہے۔ "
+
+#: library/plugin-display.php:478
+msgid "Enter the *only* correct answer to the challenge question"
+msgstr "چیلنج سوال کا *صرف* درست جواب درج کریں۔"
+
+#: library/plugin-display.php:526
+msgid "Enter URL or click button to upload/choose an image (optional)"
+msgstr "یو آر ایل درج کریں یا تصویر کو اپ لوڈ کرنے / منتخب کرنے کے لیے بٹن پر کلک کریں (اختیاری)"
+
+#: library/plugin-display.php:500
+msgid "Enter your Private Key"
+msgstr "اپنی نجی کلید درج کریں۔"
+
+#: library/plugin-display.php:495
+msgid "Enter your Public Key"
+msgstr "اپنی عوامی کلید درج کریں۔"
+
+#: library/shortcode-login.php:156
+msgid "Enter your username or email to reset your password."
+msgstr "اپنا پاس ورڈ دوبارہ ترتیب دینے کے لیے اپنا صارف نام یا ای میل درج کریں۔"
+
+#: library/plugin-display.php:179
+msgid "Error Message"
+msgstr "غلطی کا پیغام"
+
+#: library/plugin-display.php:181
+msgid "Error message displayed if post submission fails (basic markup allowed)"
+msgstr "پوسٹ جمع کرنے میں ناکام ہونے پر خرابی کا پیغام ظاہر ہوتا ہے (بنیادی مارک اپ کی اجازت ہے)"
+
+#: library/plugin-display.php:445
+msgid "Error message displayed if user does not check the box"
+msgstr "اگر صارف باکس کو چیک نہیں کرتا ہے تو خرابی کا پیغام ظاہر ہوتا ہے۔"
+
+#: user-submitted-posts.php:1564
+msgid "Error: "
+msgstr "خرابی: "
+
+#: library/plugin-display.php:783
+msgid "Example"
+msgstr "مثال"
+
+#: library/plugin-display.php:517
+msgid "Featured Image"
+msgstr "نمایاں تصویر"
+
+#: user-submitted-posts.php:1547
+msgid "File not uploaded. Please check the file and try again."
+msgstr "فائل اپ لوڈ نہیں ہوئی۔ براہ کرم فائل چیک کریں اور دوبارہ کوشش کریں۔"
+
+#: user-submitted-posts.php:1540
+msgid "File type not allowed (please upload images only)"
+msgstr "فائل کی قسم کی اجازت نہیں ہے (براہ کرم صرف تصاویر اپ لوڈ کریں)"
+
+#: library/plugin-display.php:390 library/plugin-display.php:418
+#: library/plugin-display.php:456
+msgid "For"
+msgstr "کے لیے"
+
+#: library/plugin-display.php:317 library/plugin-display.php:362
+msgid "For more"
+msgstr "زیادہ کے لئے"
+
+#: library/plugin-display.php:60
+msgid "For more features and unlimited forms, check out"
+msgstr "مزید خصوصیات اور لامحدود فارمز کے لیے، چیک آؤٹ کریں۔"
+
+#: library/plugin-display.php:218 library/plugin-display.php:266
+#: library/plugin-display.php:668
+msgid "For more options and features, check out"
+msgstr "مزید اختیارات اور خصوصیات کے لیے، چیک آؤٹ کریں۔"
+
+#: library/plugin-display.php:108
+msgid "For unlimited fields, check out"
+msgstr "لامحدود فیلڈز کے لیے، چیک آؤٹ کریں۔"
+
+#: library/shortcode-login.php:90
+msgid "Forgot?"
+msgstr "بھول؟"
+
+#: library/plugin-display.php:83
+msgid "Form Fields"
+msgstr "فارم فیلڈز"
+
+#: library/plugin-display.php:121
+msgid "Form Style"
+msgstr "فارم اسٹائل"
+
+#: library/plugin-display.php:581
+msgid "Frontend Display"
+msgstr "فرنٹ اینڈ ڈسپلے"
+
+#: library/plugin-display.php:139
+msgid "FYI: here is a"
+msgstr "FYI: یہاں ایک ہے۔"
+
+#: library/plugin-display.php:116
+msgid "General Settings"
+msgstr "عام ترتیبات"
+
+#: library/plugin-display.php:72
+msgid "Get USP Pro"
+msgstr "یو ایس پی پرو حاصل کریں۔"
+
+#: library/plugin-settings.php:40
+msgid "Get USP Pro for unlimited forms!"
+msgstr "لامحدود فارم کے لیے یو ایس پی پرو حاصل کریں!"
+
+#: library/plugin-display.php:70
+msgid "give it a 5-star rating"
+msgstr "اسے 5 اسٹار کی درجہ بندی دیں۔"
+
+#: library/plugin-display.php:37
+msgid "give this plugin a 5-star rating"
+msgstr "اس پلگ ان کو 5 اسٹار کی درجہ بندی دیں۔"
+
+#: library/plugin-settings.php:68
+msgid "Give USP a 5-star rating at WordPress.org"
+msgstr "WordPress.org پر یو ایس پی کو 5 اسٹار کی درجہ بندی دیں۔"
+
+#: library/plugin-settings.php:41
+msgid "Go Pro"
+msgstr "پرو جاؤ"
+
+#: library/plugin-settings.php:438 library/plugin-display.php:488
+msgid "Google reCaptcha"
+msgstr "گوگل ری کیپچا"
+
+#: library/shortcode-login.php:107
+msgid "Have an account?"
+msgstr "کیا آپ کا اکاؤنٹ ہے؟"
+
+#: library/plugin-display.php:717
+msgid "Here are some examples showing how to configure this shortcode:"
+msgstr "یہاں کچھ مثالیں ہیں جو یہ دکھاتی ہیں کہ اس مختصر کوڈ کو کیسے ترتیب دیا جائے:"
+
+#: library/plugin-display.php:344
+msgid "Hidden/Default Category"
+msgstr "پوشیدہ/پہلے سے طے شدہ زمرہ"
+
+#: library/plugin-settings.php:63
+msgid "Homepage"
+msgstr "ہوم پیج"
+
+#: library/plugin-settings.php:172
+msgid "HTML5 Form + Default CSS"
+msgstr "HTML5 فارم + ڈیفالٹ CSS"
+
+#: library/plugin-settings.php:176
+msgid "HTML5 Form + Disable CSS"
+msgstr "HTML5 فارم + CSS کو غیر فعال کریں۔"
+
+#. URI of the plugin
+#: 
+msgid "https://perishablepress.com/user-submitted-posts/"
+msgstr "https://perishablepress.com/user-submitted-posts/"
+
+#. Author URI of the plugin
+#: 
+msgid "https://plugin-planet.com/"
+msgstr "https://plugin-planet.com/"
+
+#: views/submission-form.php:169 views/submission-form-alt.php:184
+msgid "Human verification: leave this field empty."
+msgstr "انسانی تصدیق: اس فیلڈ کو خالی چھوڑ دیں۔"
+
+#: library/plugin-display.php:297
+msgid "If multiple addresses are specified for the previous setting, include an equal number of addresses for this setting (in the same order)."
+msgstr "اگر پچھلی ترتیب کے لیے متعدد پتے متعین کیے گئے ہیں، تو اس ترتیب کے لیے برابر پتوں کی تعداد شامل کریں (اسی ترتیب میں)۔"
+
+#: library/plugin-display.php:784
+msgid "If the user is logged in, display the post-submit form; or if the user is not logged in, display the login form:"
+msgstr "اگر صارف لاگ ان ہے تو، جمع کرانے کے بعد فارم ڈسپلے کریں۔ یا اگر صارف لاگ اِن نہیں ہے تو لاگ اِن فارم دکھائیں:"
+
+#: library/plugin-display.php:69
+msgid "If you like this plugin, please"
+msgstr "اگر آپ کو یہ پلگ ان پسند ہے، تو براہ مہربانی"
+
+#: library/plugin-display.php:586
+msgid "Image Display"
+msgstr "تصویری ڈسپلے"
+
+#: user-submitted-posts.php:1539
+msgid "Image height exceeds maximum"
+msgstr "تصویر کی اونچائی زیادہ سے زیادہ ہے۔"
+
+#: library/plugin-display.php:593
+msgid "Image Markup"
+msgstr "امیج مارک اپ"
+
+#: library/plugin-settings.php:468 library/plugin-display.php:512
+msgid "Image Uploads"
+msgstr "تصویری اپ لوڈز"
+
+#: user-submitted-posts.php:1537
+msgid "Image width exceeds maximum"
+msgstr "تصویر کی چوڑائی زیادہ سے زیادہ ہے۔"
+
+#: library/plugin-display.php:746
+msgid "in"
+msgstr "میں"
+
+#: library/plugin-display.php:131
+msgid "in your theme:"
+msgstr "آپ کے تھیم میں:"
+
+#: library/plugin-display.php:145
+msgid "Include JavaScript"
+msgstr "جاوا اسکرپٹ شامل کریں۔"
+
+#: library/plugin-display.php:147
+msgid "Include required JavaScript files (recommended)"
+msgstr "مطلوبہ JavaScript فائلیں شامل کریں (تجویز کردہ)"
+
+#: library/enqueue-scripts.php:152
+msgid "Incorrect response."
+msgstr "غلط جواب۔"
+
+#: library/plugin-display.php:138
+msgid "Installation Docs"
+msgstr "انسٹالیشن دستاویزات"
+
+#. Author of the plugin
+#: 
+msgid "Jeff Starr"
+msgstr "جیف اسٹار"
+
+#: library/plugin-display.php:830
+msgid "Jeff Starr on Twitter"
+msgstr "جیف اسٹار ٹویٹر پر"
+
+#: library/plugin-display.php:726 library/plugin-display.php:798
+msgid "Learn&nbsp;more"
+msgstr "مزید&nbsp;جانیں۔"
+
+#: library/plugin-display.php:809
+msgid "Leave this option disabled to remember your settings."
+msgstr "اپنی ترتیبات کو یاد رکھنے کے لیے اس اختیار کو غیر فعال رہنے دیں۔"
+
+#: library/plugin-settings.php:92
+msgid "Like this plugin? Give it a"
+msgstr "اس پلگ ان کی طرح؟ اسے دے a"
+
+#: library/plugin-display.php:139
+msgid "list of USP CSS selectors"
+msgstr "یو ایس پی سی ایس ایس سلیکٹرز کی فہرست"
+
+#: user-submitted-posts.php:1621
+msgid "log in"
+msgstr "لاگ ان کریں"
+
+#: library/shortcode-login.php:108
+msgid "Log in or sign up! It&rsquo;s fast &amp; free!"
+msgstr "لاگ ان کریں یا سائن اپ کریں! یہ تیز ہے اور مفت!"
+
+#: library/shortcode-login.php:182
+msgid "Log out"
+msgstr "لاگ آوٹ"
+
+#: library/shortcode-login.php:88 library/shortcode-login.php:127
+msgid "Login"
+msgstr "لاگ ان کریں"
+
+#: library/shortcode-login.php:155
+msgid "Lose something?"
+msgstr "کچھ کھونا؟"
+
+#: library/plugin-display.php:35
+msgid "make a donation"
+msgstr "عطیہ کریں"
+
+#: library/plugin-display.php:35
+msgid "Make a donation via PayPal"
+msgstr "پے پال کے ذریعے عطیہ کریں۔"
+
+#: library/plugin-display.php:483
+msgid "Make the challenge response case-sensitive"
+msgstr "چیلنج کے جواب کو کیس حساس بنائیں"
+
+#: library/plugin-display.php:648
+msgid "Markup for Custom Field 1. You may include any of the following variables:"
+msgstr "حسب ضرورت فیلڈ 1 کے لیے مارک اپ۔ آپ درج ذیل میں سے کوئی بھی متغیر شامل کر سکتے ہیں:"
+
+#: library/plugin-display.php:661
+msgid "Markup for Custom Field 2. You may include any of the following variables:"
+msgstr "حسب ضرورت فیلڈ 2 کے لیے مارک اپ۔ آپ درج ذیل میں سے کوئی بھی متغیر شامل کر سکتے ہیں:"
+
+#: library/plugin-display.php:595
+msgid "Markup for each submitted image. You may include any of the following variables:"
+msgstr "ہر جمع کرائی گئی تصویر کے لیے مارک اپ۔ آپ درج ذیل متغیرات میں سے کوئی بھی شامل کر سکتے ہیں:"
+
+#: library/plugin-display.php:622
+msgid "Markup for submitted author/name. You may include"
+msgstr "جمع کردہ مصنف/نام کے لیے مارک اپ۔ آپ شامل کر سکتے ہیں۔"
+
+#: library/plugin-display.php:609
+msgid "Markup for submitted email address. You may include any of the following variables:"
+msgstr "جمع کرائے گئے ای میل ایڈریس کے لیے مارک اپ۔ آپ درج ذیل متغیرات میں سے کوئی بھی شامل کر سکتے ہیں:"
+
+#: library/plugin-display.php:635
+msgid "Markup for submitted URL. You may include any of the following variables:"
+msgstr "جمع کرائے گئے URL کے لیے مارک اپ۔ آپ درج ذیل متغیرات میں سے کوئی بھی شامل کر سکتے ہیں:"
+
+#: library/plugin-display.php:567
+msgid "Maximum height (in pixels) for uploaded images"
+msgstr "اپ لوڈ کردہ تصاویر کے لیے زیادہ سے زیادہ اونچائی (پکسلز میں)"
+
+#: library/plugin-display.php:565
+msgid "Maximum image height"
+msgstr "تصویر کی زیادہ سے زیادہ اونچائی"
+
+#: library/plugin-display.php:560
+msgid "Maximum image width"
+msgstr "تصویر کی زیادہ سے زیادہ چوڑائی"
+
+#: library/plugin-display.php:545
+msgid "Maximum number of images"
+msgstr "تصاویر کی زیادہ سے زیادہ تعداد"
+
+#: user-submitted-posts.php:1535
+msgid "Maximum number of images exceeded "
+msgstr "تصاویر کی زیادہ سے زیادہ تعداد سے تجاوز کر گیا۔ "
+
+#: library/plugin-display.php:547
+msgid "Maximum number of images for each submitted post"
+msgstr "ہر جمع کرائی گئی پوسٹ کے لیے تصاویر کی زیادہ سے زیادہ تعداد"
+
+#: library/plugin-display.php:562
+msgid "Maximum width (in pixels) for uploaded images"
+msgstr "اپ لوڈ کردہ تصاویر کے لیے زیادہ سے زیادہ چوڑائی (پکسلز میں)"
+
+#: library/plugin-display.php:176
+msgid "Message displayed after successful post submission (basic markup allowed)"
+msgstr "پیغام کامیاب پوسٹ جمع کرانے کے بعد دکھایا گیا (بنیادی مارک اپ کی اجازت ہے)"
+
+#: library/plugin-display.php:532
+msgid "Message displayed next to the file upload field (basic markup allowed)"
+msgstr "فائل اپ لوڈ فیلڈ کے آگے دکھائے گئے پیغام (بنیادی مارک اپ کی اجازت ہے)"
+
+#: library/plugin-display.php:309
+msgid "Message for email alerts. Leave blank to use default message. You may include any of the following variables:"
+msgstr "ای میل الرٹس کے لیے پیغام۔ ڈیفالٹ پیغام استعمال کرنے کے لیے خالی چھوڑ دیں۔ آپ درج ذیل متغیرات میں سے کوئی بھی شامل کر سکتے ہیں:"
+
+#: library/plugin-display.php:557
+msgid "Minimum height (in pixels) for uploaded images"
+msgstr "اپ لوڈ کردہ تصاویر کے لیے کم از کم اونچائی (پکسلز میں)"
+
+#: library/plugin-display.php:555
+msgid "Minimum image height"
+msgstr "تصویر کی کم از کم اونچائی"
+
+#: user-submitted-posts.php:1538
+msgid "Minimum image height not met"
+msgstr "تصویر کی کم از کم اونچائی پوری نہیں ہوئی۔"
+
+#: library/plugin-display.php:550
+msgid "Minimum image width"
+msgstr "تصویر کی کم از کم چوڑائی"
+
+#: user-submitted-posts.php:1536
+msgid "Minimum image width not met"
+msgstr "تصویر کی کم از کم چوڑائی پوری نہیں ہوئی۔"
+
+#: library/plugin-display.php:540
+msgid "Minimum number of images"
+msgstr "تصاویر کی کم از کم تعداد"
+
+#: library/plugin-display.php:542
+msgid "Minimum number of images for each submitted post"
+msgstr "ہر جمع کرائی گئی پوسٹ کے لیے تصاویر کی کم از کم تعداد"
+
+#: user-submitted-posts.php:1534
+msgid "Minimum number of images not met"
+msgstr "تصاویر کی کم از کم تعداد پوری نہیں ہوئی۔"
+
+#: library/plugin-display.php:552
+msgid "Minimum width (in pixels) for uploaded images"
+msgstr "اپ لوڈ کردہ تصاویر کے لیے کم از کم چوڑائی (پکسلز میں)"
+
+#: library/plugin-display.php:105 library/plugin-display.php:215
+#: library/plugin-display.php:263 library/plugin-display.php:314
+#: library/plugin-display.php:359 library/plugin-display.php:387
+#: library/plugin-display.php:415 library/plugin-display.php:453
+#: library/plugin-display.php:570 library/plugin-display.php:665
+msgid "More Options"
+msgstr "مزید زرائے"
+
+#: library/plugin-display.php:339
+msgid "Multiple Categories"
+msgstr "متعدد زمرے"
+
+#: library/plugin-display.php:613
+msgid "Name Display"
+msgstr "نام ڈسپلے"
+
+#: library/plugin-display.php:620
+msgid "Name Markup"
+msgstr "نام مارک اپ"
+
+#: user-submitted-posts.php:1533
+msgid "Non-empty value for hidden field"
+msgstr "پوشیدہ فیلڈ کے لیے غیر خالی قدر"
+
+#: library/plugin-display.php:767
+msgid "Note that the url attribute accepts"
+msgstr "نوٹ کریں کہ یو آر ایل وصف قبول کرتا ہے۔"
+
+#: library/plugin-display.php:742
+msgid "Notes:"
+msgstr "نوٹس:"
+
+#: library/plugin-display.php:831
+msgid "Obsessive Web Design &amp; Development"
+msgstr "جنونی ویب ڈیزائن اور ترقی"
+
+#: library/plugin-display.php:186
+msgid "Optional markup/text to include before the submission form (leave blank to disable)"
+msgstr "جمع کرانے کے فارم سے پہلے شامل کرنے کے لیے اختیاری مارک اپ/ٹیکسٹ (غیر فعال کرنے کے لیے خالی چھوڑ دیں)"
+
+#: library/plugin-display.php:364
+msgid "options, check out"
+msgstr "اختیارات، چیک کریں"
+
+#: library/support-panel.php:61
+msgid "or"
+msgstr "یا"
+
+#: library/support-panel.php:61
+msgid "or by making a"
+msgstr "یا بنا کر a"
+
+#: library/plugin-display.php:810
+msgid "Or, to go ahead and restore the default plugin options: check the box, save your settings, and then deactivate/reactivate the plugin."
+msgstr "یا، آگے بڑھنے اور پہلے سے طے شدہ پلگ ان اختیارات کو بحال کرنے کے لیے: باکس کو نشان زد کریں، اپنی ترتیبات کو محفوظ کریں، اور پھر پلگ ان کو غیر فعال/دوبارہ فعال کریں۔"
+
+#: library/plugin-display.php:715
+msgid "Or, use the template tag to display a list of submitted posts anywhere in your theme template:"
+msgstr "یا، اپنے تھیم ٹیمپلیٹ میں کہیں بھی جمع کردہ پوسٹس کی فہرست دکھانے کے لیے ٹیمپلیٹ ٹیگ کا استعمال کریں:"
+
+#: library/plugin-display.php:734
+msgid "Or, use the template tag to display an image gallery anywhere in your theme template:"
+msgstr "یا، اپنے تھیم ٹیمپلیٹ میں کہیں بھی تصویری گیلری دکھانے کے لیے ٹیمپلیٹ ٹیگ کا استعمال کریں:"
+
+#: library/plugin-display.php:693 library/plugin-display.php:706
+msgid "Or, use the template tag to display the form anywhere in your theme template:"
+msgstr "یا، اپنے تھیم ٹیمپلیٹ میں کہیں بھی فارم کو ظاہر کرنے کے لیے ٹیمپلیٹ ٹیگ کا استعمال کریں:"
+
+#: library/plugin-display.php:55
+msgid "Overview"
+msgstr "جائزہ"
+
+#: library/shortcode-login.php:118
+msgid "Password"
+msgstr "پاس ورڈ"
+
+#: library/plugin-settings.php:564
+msgid "Pending (default)"
+msgstr "زیر التواء (پہلے سے طے شدہ)"
+
+#: library/support-panel.php:51
+msgid "Perishable Press Books"
+msgstr "خراب ہونے والی پریس کتب"
+
+#: user-submitted-posts.php:1620 library/plugin-display.php:35
+msgid "Please"
+msgstr "برائے مہربانی"
+
+#: user-submitted-posts.php:1532
+msgid "Please check your email and try again"
+msgstr "براہ کرم اپنا ای میل چیک کریں اور دوبارہ کوشش کریں۔"
+
+#: views/submission-form.php:21 views/submission-form-alt.php:40
+msgid "Please complete the required fields."
+msgstr "براہ کرم مطلوبہ فیلڈز کو مکمل کریں۔"
+
+#: user-submitted-posts.php:85
+msgid "Please return to the"
+msgstr "براہ کرم پر واپس جائیں۔"
+
+#: views/submission-form.php:92 views/submission-form-alt.php:107
+msgid "Please select a category.."
+msgstr "براہ کرم ایک زمرہ منتخب کریں.."
+
+#: views/submission-form.php:58 views/submission-form-alt.php:73
+msgid "Please select some tags.."
+msgstr "براہ کرم کچھ ٹیگز منتخب کریں.."
+
+#: library/plugin-settings.php:860
+msgid "Please select your image(s) to upload."
+msgstr "براہ کرم اپ لوڈ کرنے کے لیے اپنی تصویر (تصاویر) منتخب کریں۔"
+
+#: library/support-panel.php:60
+msgid "Please show support by purchasing one of my"
+msgstr "براہ کرم میری ایک خرید کر سپورٹ دکھائیں۔"
+
+#: library/plugin-settings.php:62 library/plugin-display.php:64
+#: library/plugin-display.php:829
+msgid "Plugin Homepage"
+msgstr "پلگ ان ہوم پیج"
+
+#: library/support-panel.php:52
+msgid "Plugin Planet"
+msgstr "پلگ ان سیارہ"
+
+#: library/plugin-display.php:79
+msgid "Plugin Settings"
+msgstr "پلگ ان کی ترتیبات"
+
+#: library/support-panel.php:56
+msgid "plugins"
+msgstr "پلگ ان"
+
+#: views/submission-form.php:90 views/submission-form-alt.php:105
+#: library/plugin-display.php:94
+msgid "Post Category"
+msgstr "پوسٹ کیٹیگری"
+
+#: user-submitted-posts.php:1527
+msgid "Post category required"
+msgstr "پوسٹ زمرہ درکار ہے۔"
+
+#: views/submission-form.php:123 views/submission-form.php:124
+#: views/submission-form-alt.php:138 views/submission-form-alt.php:139
+#: library/plugin-display.php:95
+msgid "Post Content"
+msgstr "مواد پوسٹ کریں۔"
+
+#: user-submitted-posts.php:1528
+msgid "Post content required"
+msgstr "پوسٹ مواد درکار ہے۔"
+
+#: user-submitted-posts.php:1553
+msgid "Post not created. Please contact the site administrator for help."
+msgstr "پوسٹ نہیں بنائی گئی۔ براہ کرم مدد کے لیے سائٹ کے منتظم سے رابطہ کریں۔"
+
+#: library/plugin-display.php:162
+msgid "Post Status"
+msgstr "پوسٹ کی حیثیت"
+
+#: library/plugin-display.php:165
+msgid "Post Status for submitted posts"
+msgstr "جمع کرائی گئی پوسٹس کے لیے پوسٹ کی حیثیت"
+
+#: views/submission-form.php:56 views/submission-form.php:65
+#: views/submission-form.php:66 views/submission-form-alt.php:71
+#: views/submission-form-alt.php:80 views/submission-form-alt.php:81
+#: library/plugin-display.php:93
+msgid "Post Tags"
+msgstr "ٹیگز پوسٹ کریں۔"
+
+#: user-submitted-posts.php:1526
+msgid "Post tags required"
+msgstr "پوسٹ ٹیگز کی ضرورت ہے۔"
+
+#: views/submission-form.php:49 views/submission-form.php:50
+#: views/submission-form-alt.php:64 views/submission-form-alt.php:65
+#: library/plugin-display.php:92
+msgid "Post Title"
+msgstr "پوسٹ کا عنوان"
+
+#: user-submitted-posts.php:1524
+msgid "Post title required"
+msgstr "پوسٹ کا عنوان درکار ہے۔"
+
+#: library/plugin-display.php:155
+msgid "Post Type"
+msgstr "پوسٹ کی قسم"
+
+#: library/plugin-display.php:158
+msgid "Post Type for submitted posts"
+msgstr "جمع کرائی گئی پوسٹس کے لیے پوسٹ کی قسم"
+
+#: library/plugin-display.php:498
+msgid "Private Key"
+msgstr "نجی کلید"
+
+#: library/shortcode-login.php:184
+msgid "Profile"
+msgstr "پروفائل"
+
+#: library/plugin-display.php:493
+msgid "Public Key"
+msgstr "عوامی کلید"
+
+#: library/plugin-settings.php:567
+msgid "Publish after "
+msgstr "کے بعد شائع کریں۔ "
+
+#: library/plugin-settings.php:566
+msgid "Publish after 1 approved post"
+msgstr "1 منظور شدہ پوسٹ کے بعد شائع کریں۔"
+
+#: library/plugin-settings.php:565
+msgid "Publish immediately"
+msgstr "فوری طور پر شائع کریں۔"
+
+#: library/plugin-display.php:36
+msgid "Rate and review at the Plugin Directory"
+msgstr "پلگ ان ڈائرکٹری میں درجہ بندی اور جائزہ لیں۔"
+
+#: library/plugin-settings.php:69
+msgid "Rate this plugin&nbsp;&raquo;"
+msgstr "اس پلگ ان کی درجہ بندی کریں&nbsp;&raquo;"
+
+#: library/plugin-display.php:503
+msgid "reCaptcha Version"
+msgstr "reCaptcha ورژن"
+
+#: library/plugin-display.php:279
+msgid "Receive Email Alert"
+msgstr "ای میل الرٹ وصول کریں۔"
+
+#: library/plugin-display.php:169
+msgid "Redirect URL"
+msgstr "ری ڈائریکٹ URL"
+
+#: library/plugin-display.php:171
+msgid "Redirect user to this URL after post submission (leave blank to stay on current page)"
+msgstr "پوسٹ جمع کرانے کے بعد صارف کو اس URL پر ری ڈائریکٹ کریں (موجودہ صفحہ پر رہنے کے لیے خالی چھوڑ دیں)"
+
+#: library/shortcode-login.php:89
+msgid "Register"
+msgstr "رجسٹر کریں۔"
+
+#: library/shortcode-login.php:135
+msgid "Register for this site!"
+msgstr "اس سائٹ کے لئے رجسٹر کریں!"
+
+#: library/plugin-display.php:243
+msgid "Registered Email"
+msgstr "رجسٹرڈ ای میل"
+
+#: library/plugin-display.php:248
+msgid "Registered URL"
+msgstr "رجسٹرڈ URL"
+
+#: library/plugin-display.php:238
+msgid "Registered Username"
+msgstr "رجسٹرڈ صارف نام"
+
+#: library/shortcode-login.php:124
+msgid "Remember me"
+msgstr "مجھے پہچانتے ہو"
+
+#: library/plugin-display.php:196
+msgid "Require submitted post titles to be unique (useful for preventing multiple/duplicate posts)"
+msgstr "جمع کرائے گئے پوسٹ ٹائٹلز کو منفرد بنانے کی ضرورت ہے (متعدد/ڈپلیکیٹ پوسٹس کو روکنے کے لیے مفید)"
+
+#: library/plugin-display.php:253
+msgid "Require User Login"
+msgstr "صارف لاگ ان کی ضرورت ہے۔"
+
+#: library/plugin-display.php:255
+msgid "Require users to be logged in to WordPress to view/submit the form"
+msgstr "فارم دیکھنے/جمع کرانے کے لیے صارفین کو ورڈپریس میں لاگ ان ہونے کی ضرورت ہے۔"
+
+#: user-submitted-posts.php:83
+msgid "requires WordPress "
+msgstr "ورڈپریس کی ضرورت ہے۔ "
+
+#: library/shortcode-misc.php:18
+msgid "Reset form"
+msgstr "فارم کو ری سیٹ کریں۔"
+
+#: library/plugin-display.php:758
+msgid "Reset Form Button"
+msgstr "فارم بٹن کو ری سیٹ کریں۔"
+
+#: library/shortcode-login.php:163
+msgid "Reset my password"
+msgstr "میرا پاس ورڈ دوبارہ ترتیب دیں۔"
+
+#: library/plugin-display.php:813
+msgid "Restore default options upon plugin deactivation/reactivation"
+msgstr "پلگ ان کو غیر فعال کرنے / دوبارہ فعال کرنے پر پہلے سے طے شدہ اختیارات کو بحال کریں۔"
+
+#: library/plugin-display.php:807
+msgid "Restore Defaults"
+msgstr "ڈیفالٹس بحال"
+
+#: user-submitted-posts.php:1590
+msgid "Return to form"
+msgstr "فارم پر واپس جائیں۔"
+
+#: library/plugin-display.php:189
+msgid "Rich Text Editor"
+msgstr "رچ ٹیکسٹ ایڈیٹر"
+
+#: library/plugin-display.php:676
+msgid "Save All Changes"
+msgstr "تمام تبدیلیاں محفوظ کریں۔"
+
+#: library/plugin-display.php:842
+msgid "Save Preference"
+msgstr "ترجیح محفوظ کریں۔"
+
+#: library/plugin-display.php:815
+msgid "Save Settings"
+msgstr "ترتیبات کو محفوظ کریں۔"
+
+#: library/plugin-settings.php:595
+msgid "Select categories to include in the Category field:"
+msgstr "زمرہ خانہ میں شامل کرنے کے لیے زمرے منتخب کریں:"
+
+#: library/plugin-display.php:281
+msgid "Send email alerts for new post submissions"
+msgstr "نئی پوسٹ کی گذارشات کے لیے ای میل الرٹس بھیجیں۔"
+
+#: library/plugin-settings.php:31
+msgid "Settings"
+msgstr "ترتیبات"
+
+#: library/plugin-display.php:334
+msgid "Show categories"
+msgstr "زمرے دکھائیں۔"
+
+#: library/plugin-display.php:820
+msgid "Show Support"
+msgstr "سپورٹ دکھائیں۔"
+
+#: user-submitted-posts.php:618
+msgid "Show USP Posts"
+msgstr "یو ایس پی پوسٹس دکھائیں۔"
+
+#: library/shortcode-login.php:136
+msgid "Sign up now for the good stuff."
+msgstr "اچھی چیزوں کے لیے ابھی سائن اپ کریں۔"
+
+#: library/shortcode-login.php:147
+msgid "Sign up!"
+msgstr "سائن اپ!"
+
+#: library/plugin-display.php:351
+msgid "Specify category ID(s) to use for &ldquo;Hidden/Default Category&rdquo; (separate multiple IDs with commas)"
+msgstr "&ldquo;پوشیدہ/ڈیفالٹ زمرہ&rdquo; کے لیے استعمال کرنے کے لیے زمرہ ID (زبانیں) کی وضاحت کریں۔ (متعدد IDs کو کوما سے الگ کریں)"
+
+#: library/plugin-display.php:234
+msgid "Specify the user that should be assigned as author for submitted posts"
+msgstr "اس صارف کی وضاحت کریں جسے جمع کرائی گئی پوسٹس کے لیے مصنف کے طور پر تفویض کیا جانا چاہیے۔"
+
+#: library/plugin-display.php:302
+msgid "Subject line for email alerts. Leave blank to use default subject line. You may include any of the following variables:"
+msgstr "ای میل الرٹس کے لیے سبجیکٹ لائن۔ ڈیفالٹ سبجیکٹ لائن استعمال کرنے کے لیے خالی چھوڑ دیں۔ آپ درج ذیل متغیرات میں سے کوئی بھی شامل کر سکتے ہیں:"
+
+#: views/submission-form.php:197 views/submission-form-alt.php:212
+msgid "Submit Post"
+msgstr "پوسٹ جمع کروائیں۔"
+
+#: library/plugin-settings.php:10
+msgid "Submitted Posts"
+msgstr "جمع کرائی گئی پوسٹس"
+
+#: user-submitted-posts.php:559
+msgid "Submitter Email: "
+msgstr "بھیجنے والا ای میل: "
+
+#: user-submitted-posts.php:561
+msgid "Submitter IP: "
+msgstr "جمع کرانے والا IP: "
+
+#: user-submitted-posts.php:558
+msgid "Submitter Name: "
+msgstr "جمع کرانے والے کا نام: "
+
+#: user-submitted-posts.php:560
+msgid "Submitter URL: "
+msgstr "جمع کرانے والا URL: "
+
+#: library/plugin-display.php:174
+msgid "Success Message"
+msgstr "کامیابی کا پیغام"
+
+#: library/shortcode-login.php:97 library/shortcode-login.php:102
+msgid "Success!"
+msgstr "کامیابی!"
+
+#: library/plugin-settings.php:866
+msgid "Success! Thank you for your submission."
+msgstr "کامیابی! آپ کے جمع کرانے کے لئے آپ کا شکریہ."
+
+#: library/plugin-display.php:66
+msgid "Support Forum"
+msgstr "سپورٹ فورم"
+
+#: library/plugin-display.php:364
+msgid "tag"
+msgstr "ٹیگ"
+
+#: library/plugin-display.php:150
+msgid "Targeted Loading"
+msgstr "ٹارگٹڈ لوڈنگ"
+
+#: library/plugin-display.php:450
+msgid "Text displayed next to checkbox. Tip: use curly brackets to output angle brackets, for example:"
+msgstr "متن چیک باکس کے آگے ظاہر ہوتا ہے۔ ٹپ: زاویہ بریکٹ کو آؤٹ پٹ کرنے کے لیے گھوبگھرالی بریکٹ استعمال کریں، مثال کے طور پر:"
+
+#: library/support-panel.php:59
+msgid "Thank you for using"
+msgstr "استعمال کرنے کے لیے آپ کا شکریہ"
+
+#: library/plugin-display.php:70
+msgid "THANK YOU for your support!"
+msgstr "آپ کی حمایت کا شکریہ!"
+
+#: library/plugin-display.php:137
+msgid "That will enable you to customize the form and styles as desired. For more info, check out the \"Custom Submission Form\" section in the"
+msgstr "یہ آپ کو اپنی مرضی کے مطابق فارم اور اسٹائل کو اپنی مرضی کے مطابق کرنے کے قابل بنائے گا۔ مزید معلومات کے لیے، میں \"کسٹم جمع کرانے کا فارم\" سیکشن دیکھیں"
+
+#: library/plugin-display.php:793
+msgid "The access shortcodes can be added to any WP Post or Page. So you can display forms and other content conditionally, based on user role and login status."
+msgstr "رسائی کے شارٹ کوڈز کو کسی بھی WP پوسٹ یا پیج میں شامل کیا جا سکتا ہے۔ لہذا آپ صارف کے کردار اور لاگ ان کی حیثیت کی بنیاد پر فارم اور دیگر مواد مشروط طور پر ڈسپلے کر سکتے ہیں۔"
+
+#: user-submitted-posts.php:1551
+msgid "The file(s) could not be uploaded"
+msgstr "فائل (فائلیں) اپ لوڈ نہیں کی جا سکیں"
+
+#: library/plugin-display.php:708
+msgid "The login/register form displays as a tabbed interface, so users can switch between login, register, and reset password."
+msgstr "لاگ ان/رجسٹر فارم ٹیب شدہ انٹرفیس کے طور پر ظاہر ہوتا ہے، تاکہ صارف لاگ ان، رجسٹر، اور پاس ورڈ کو دوبارہ ترتیب دے سکیں۔"
+
+#: library/plugin-display.php:725
+msgid "The pro version provides many more options for this shortcode."
+msgstr "پرو ورژن اس مختصر کوڈ کے لیے بہت سے اختیارات فراہم کرتا ہے۔"
+
+#: library/plugin-display.php:797
+msgid "The pro version provides more flexibility with access-control shortcodes."
+msgstr "پرو ورژن ایکسیس کنٹرول شارٹ کوڈز کے ساتھ مزید لچک فراہم کرتا ہے۔"
+
+#: library/plugin-settings.php:846
+msgid "There was an error. Please check required fields and try again."
+msgstr "ایک خرابی تھی۔ براہ کرم مطلوبہ فیلڈز کو چیک کریں اور دوبارہ کوشش کریں۔"
+
+#: library/plugin-display.php:212
+msgid "This setting enables any/all shortcodes in widgets (even shortcodes from other plugins)."
+msgstr "یہ ترتیب وجیٹس میں کسی بھی/تمام شارٹ کوڈز (یہاں تک کہ دوسرے پلگ انز سے بھی شارٹ کوڈز) کو قابل بناتی ہے۔"
+
+#: library/plugin-display.php:762
+msgid "This shortcode accepts the following attributes:"
+msgstr "یہ مختصر کوڈ درج ذیل صفات کو قبول کرتا ہے:"
+
+#: library/plugin-display.php:760
+msgid "This shortcode displays a link that resets the form to its original state:"
+msgstr "یہ شارٹ کوڈ ایک لنک دکھاتا ہے جو فارم کو اس کی اصل حالت میں ری سیٹ کرتا ہے۔"
+
+#: library/plugin-display.php:384
+msgid "This will be displayed as the field label on the form. Default: Custom Field 1"
+msgstr "یہ فارم پر فیلڈ لیبل کے طور پر ظاہر ہوگا۔ ڈیفالٹ: حسب ضرورت فیلڈ 1"
+
+#: library/plugin-display.php:412
+msgid "This will be displayed as the field label on the form. Default: Custom Field 2"
+msgstr "یہ فارم پر فیلڈ لیبل کے طور پر ظاہر ہوگا۔ ڈیفالٹ: حسب ضرورت فیلڈ 2"
+
+#: library/plugin-display.php:724 library/plugin-display.php:780
+#: library/plugin-display.php:796
+msgid "Tip:"
+msgstr "ٹپ:"
+
+#: library/plugin-display.php:623
+msgid "to display the submitted name."
+msgstr "جمع کرائے گئے نام کو ظاہر کرنے کے لیے۔"
+
+#: library/plugin-display.php:490
+msgid "To enable Google reCaptcha, enter your public and private keys."
+msgstr "Google reCaptcha کو فعال کرنے کے لیے، اپنی عوامی اور نجی کلیدیں درج کریں۔"
+
+#: library/plugin-display.php:767
+msgid "to get the current URL."
+msgstr "موجودہ URL حاصل کرنے کے لیے۔"
+
+#: library/plugin-display.php:753
+msgid "to get the URL of the full-size image"
+msgstr "پورے سائز کی تصویر کا URL حاصل کرنے کے لیے"
+
+#: library/plugin-display.php:781
+msgid "to include markup in the deny message, you can use"
+msgstr "انکاری پیغام میں مارک اپ شامل کرنے کے لیے، آپ استعمال کر سکتے ہیں۔"
+
+#: library/plugin-display.php:781
+msgid "to output"
+msgstr "آؤٹ پٹ کے لیے"
+
+#: library/plugin-display.php:745
+msgid "to output angle brackets"
+msgstr "زاویہ بریکٹ آؤٹ پٹ کرنے کے لیے"
+
+#: library/plugin-display.php:473
+msgid "To prevent spam, enter a question that users must answer before submitting the form"
+msgstr "سپیم کو روکنے کے لیے، ایک سوال درج کریں جس کا جواب صارفین کو فارم جمع کرانے سے پہلے دینا چاہیے۔"
+
+#: user-submitted-posts.php:1622
+msgid "to submit content!"
+msgstr "مواد جمع کرنے کے لئے!"
+
+#: user-submitted-posts.php:87
+msgid "to upgrade WordPress and try again."
+msgstr "ورڈپریس کو اپ گریڈ کرنے کے لیے اور دوبارہ کوشش کریں۔"
+
+#: library/plugin-display.php:22
+msgid "Toggle all panels"
+msgstr "تمام پینلز کو ٹوگل کریں۔"
+
+#: library/plugin-display.php:194
+msgid "Unique Titles"
+msgstr "منفرد عنوانات"
+
+#: library/plugin-display.php:457
+msgid "unlimited checkbox fields"
+msgstr "لامحدود چیک باکس فیلڈز"
+
+#: library/plugin-display.php:391 library/plugin-display.php:419
+msgid "unlimited custom fields"
+msgstr "لامحدود کسٹم فیلڈز"
+
+#: library/plugin-display.php:72
+msgid "Unlimited front-end forms"
+msgstr "لامحدود فرنٹ اینڈ فارم"
+
+#: views/submission-form.php:138 views/submission-form-alt.php:153
+msgid "Upload an Image"
+msgstr "ایک تصویر اپ لوڈ کریں۔"
+
+#: library/plugin-display.php:530
+msgid "Upload Message"
+msgstr "پیغام اپ لوڈ کریں۔"
+
+#: library/plugin-settings.php:897
+msgid "URL"
+msgstr "URL"
+
+#: library/plugin-display.php:626
+msgid "URL Display"
+msgstr "یو آر ایل ڈسپلے"
+
+#: library/plugin-display.php:633
+msgid "URL Markup"
+msgstr "URL مارک اپ"
+
+#: library/plugin-display.php:346
+msgid "Use a hidden field for the post category. This hides the category field and sets its value via the next option."
+msgstr "پوسٹ کے زمرے کے لیے ایک پوشیدہ فیلڈ استعمال کریں۔ یہ زمرہ کی فیلڈ کو چھپاتا ہے اور اگلے آپشن کے ذریعے اس کی قیمت مقرر کرتا ہے۔"
+
+#: library/plugin-display.php:745
+msgid "Use curly brackets"
+msgstr "گھوبگھرالی بریکٹ استعمال کریں۔"
+
+#: library/plugin-display.php:354
+msgid "Use Existing Tags"
+msgstr "موجودہ ٹیگز استعمال کریں۔"
+
+#: library/plugin-display.php:379 library/plugin-display.php:407
+#: library/plugin-display.php:440
+msgid "Use only alphanumeric, underscores, and dashes. If unsure, use the default name:"
+msgstr "صرف حروف نمبری، انڈر سکورز اور ڈیشز استعمال کریں۔ اگر یقین نہ ہو تو پہلے سے طے شدہ نام استعمال کریں:"
+
+#: library/plugin-display.php:750
+msgid "Use single straight quotes (instead of double quotes) in"
+msgstr "میں واحد سیدھے اقتباسات (ڈبل کوٹس کی بجائے) استعمال کریں۔"
+
+#: library/plugin-display.php:519
+msgid "Use submitted images as Featured Images. Requires theme support for Featured Images (aka Post Thumbnails)"
+msgstr "جمع کرائی گئی تصاویر کو بطور فیچرڈ امیجز استعمال کریں۔ نمایاں امیجز کے لیے تھیم سپورٹ درکار ہے (عرف پوسٹ تھمب نیلز)"
+
+#: library/plugin-display.php:691 library/plugin-display.php:704
+msgid "Use the shortcode to display the form on any WP Post or Page:"
+msgstr "فارم کو کسی بھی WP پوسٹ یا صفحہ پر ظاہر کرنے کے لیے شارٹ کوڈ استعمال کریں:"
+
+#: library/plugin-display.php:250
+msgid "Use the user&rsquo;s Profile URL as the value of the URL field (valid when the user is logged in to WordPress)"
+msgstr "یو آر ایل فیلڈ کی قدر کے طور پر صارف کے پروفائل یو آر ایل کا استعمال کریں (اس وقت درست ہے جب صارف ورڈپریس میں لاگ ان ہوتا ہے)"
+
+#: library/plugin-display.php:245
+msgid "Use the user&rsquo;s registered email as the value of the Email field (valid when the user is logged in to WordPress)"
+msgstr "صارف کے رجسٹرڈ ای میل کو ای میل فیلڈ کی قدر کے طور پر استعمال کریں (اس وقت درست ہے جب صارف ورڈپریس میں لاگ ان ہوتا ہے)"
+
+#: library/plugin-display.php:240
+msgid "Use the user&rsquo;s registered username for the Name field (valid when the user is logged in to WordPress)"
+msgstr "نام فیلڈ کے لیے صارف کا رجسٹرڈ صارف نام استعمال کریں (اس وقت درست ہے جب صارف ورڈپریس میں لاگ ان ہوتا ہے)"
+
+#: library/plugin-display.php:732
+msgid "Use this shortcode to display a gallery of uploaded images for each submitted post:"
+msgstr "ہر جمع کرائی گئی پوسٹ کے لیے اپ لوڈ کردہ تصاویر کی گیلری دکھانے کے لیے اس مختصر کوڈ کا استعمال کریں:"
+
+#: library/plugin-display.php:713
+msgid "Use this shortcode to display a list of submitted posts on any WP Post or Page:"
+msgstr "کسی بھی WP پوسٹ یا صفحہ پر جمع کردہ پوسٹس کی فہرست دکھانے کے لیے اس مختصر کوڈ کا استعمال کریں:"
+
+#: library/plugin-display.php:90
+msgid "User Email"
+msgstr "صارف کا ای میل"
+
+#: user-submitted-posts.php:1531
+msgid "User email required"
+msgstr "صارف کا ای میل درکار ہے۔"
+
+#: user-submitted-posts.php:1522
+msgid "User login required"
+msgstr "صارف لاگ ان درکار ہے۔"
+
+#: library/plugin-display.php:89
+msgid "User Name"
+msgstr "صارف کا نام"
+
+#: user-submitted-posts.php:1523
+msgid "User name required"
+msgstr "صارف کا نام درکار ہے۔"
+
+#: library/plugin-display.php:226
+msgid "User Settings"
+msgstr "صارف کی ترتیبات"
+
+#: user-submitted-posts.php:139
+msgid "User Submitted Post"
+msgstr "صارف کی جمع کردہ پوسٹ"
+
+#: user-submitted-posts.php:528
+msgid "User Submitted Post Info"
+msgstr "صارف نے پوسٹ کی معلومات جمع کرائی"
+
+#. Name of the plugin
+#: user-submitted-posts.php:44 library/support-panel.php:7
+msgid "User Submitted Posts"
+msgstr "صارف کی جمع کردہ پوسٹس"
+
+#: library/plugin-display.php:91
+msgid "User URL"
+msgstr "یوزر یو آر ایل"
+
+#: user-submitted-posts.php:1525
+msgid "User URL required"
+msgstr "صارف کا URL درکار ہے۔"
+
+#: library/shortcode-login.php:114 library/shortcode-login.php:139
+msgid "Username"
+msgstr "صارف نام"
+
+#: library/shortcode-login.php:159
+msgid "Username or Email"
+msgstr "اسم رکنیت یا ای میل"
+
+#: user-submitted-posts.php:619 library/plugin-display.php:59
+msgid "USP"
+msgstr "یو ایس پی"
+
+#: library/plugin-display.php:690
+msgid "USP enables you to display a post-submission form anywhere on your site."
+msgstr "یو ایس پی آپ کو اپنی سائٹ پر کہیں بھی پوسٹ جمع کرانے کا فارم ڈسپلے کرنے کے قابل بناتا ہے۔"
+
+#: library/plugin-display.php:60 library/plugin-display.php:109
+#: library/plugin-display.php:219 library/plugin-display.php:267
+#: library/plugin-display.php:320 library/plugin-display.php:365
+#: library/plugin-display.php:393 library/plugin-display.php:421
+#: library/plugin-display.php:459 library/plugin-display.php:574
+#: library/plugin-display.php:669 library/plugin-display.php:697
+msgid "USP Pro"
+msgstr "یو ایس پی پرو"
+
+#: library/plugin-display.php:772
+msgid "USP provides three shortcodes to control access and restrict content."
+msgstr "یو ایس پی رسائی کو کنٹرول کرنے اور مواد کو محدود کرنے کے لیے تین شارٹ کوڈز فراہم کرتا ہے۔"
+
+#: library/plugin-settings.php:316
+msgid "v2 (I&rsquo;m not a robot)"
+msgstr "v2 (میں روبوٹ نہیں ہوں)"
+
+#: library/plugin-settings.php:320
+msgid "v3 (Hidden reCaptcha)"
+msgstr "v3 (چھپا ہوا reCaptcha)"
+
+#: views/submission-form.php:131 views/submission-form-alt.php:146
+msgid "Verification"
+msgstr "تصدیق"
+
+#: library/shortcode-misc.php:135
+msgid "View full post"
+msgstr "مکمل پوسٹ دیکھیں"
+
+#: library/plugin-display.php:696
+msgid "Want more than one form? Create unlimited submission forms, registration forms, contact forms and more with"
+msgstr "ایک سے زیادہ فارم چاہتے ہیں؟ اس کے ساتھ لامحدود جمع کرانے کے فارم، رجسٹریشن فارم، رابطہ فارم اور بہت کچھ بنائیں"
+
+#: library/plugin-display.php:31
+msgid "We need your support!"
+msgstr "ہمیں آپ کی حمایت کی ضرورت ہے!"
+
+#: library/shortcode-login.php:177
+msgid "Welcome, "
+msgstr "خوش آمدید، "
+
+#: library/plugin-display.php:126
+msgid "With this option, you can copy the plugin&rsquo;s default templates:"
+msgstr "اس اختیار کے ساتھ، آپ پلگ ان کے ڈیفالٹ ٹیمپلیٹس کو کاپی کر سکتے ہیں:"
+
+#: user-submitted-posts.php:86
+msgid "WordPress Admin Area"
+msgstr "ورڈپریس ایڈمن ایریا"
+
+#: library/plugin-settings.php:156
+msgid "WP Page"
+msgstr "WP صفحہ"
+
+#: library/plugin-settings.php:152
+msgid "WP Post (recommended)"
+msgstr "WP پوسٹ (تجویز کردہ)"
+
+#: library/plugin-display.php:703
+msgid "You also can display a simple form that enables users to log in, register, or reset their password."
+msgstr "آپ ایک سادہ فارم بھی دکھا سکتے ہیں جو صارفین کو لاگ ان کرنے، رجسٹر کرنے یا اپنا پاس ورڈ دوبارہ ترتیب دینے کے قابل بناتا ہے۔"
+
+#: library/plugin-display.php:736
+msgid "You can customize using any of the follwing attributes:"
+msgstr "آپ درج ذیل صفات میں سے کسی کا استعمال کرتے ہوئے اپنی مرضی کے مطابق کر سکتے ہیں:"
+
+#: views/submission-form.php:37 views/submission-form.php:38
+#: views/submission-form-alt.php:52 views/submission-form-alt.php:53
+#: library/shortcode-login.php:143
+msgid "Your Email"
+msgstr "آپ کا ای میل"
+
+#: library/plugin-display.php:41
+msgid "Your generous support enables continued development of this free plugin. Thank you!"
+msgstr "آپ کی فراخدلی مدد اس مفت پلگ ان کی مسلسل ترقی کے قابل بناتی ہے۔ شکریہ!"
+
+#: library/support-panel.php:62
+msgid "Your generous support helps future development of"
+msgstr "آپ کی فراخ دلی سے مستقبل کی ترقی میں مدد ملتی ہے۔"
+
+#: views/submission-form.php:31 views/submission-form.php:32
+#: views/submission-form-alt.php:46 views/submission-form-alt.php:47
+msgid "Your Name"
+msgstr "تمھارا نام"
+
+#: views/submission-form.php:43 views/submission-form.php:44
+#: views/submission-form-alt.php:58 views/submission-form-alt.php:59
+msgid "Your URL"
+msgstr "آپ کا URL"
+
+#: library/plugin-settings.php:96
+msgid "★★★★★ rating&nbsp;&raquo;"
+msgstr "★★★★★ درجہ بندی&nbsp;&raquo;"
+

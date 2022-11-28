@@ -4,10 +4,10 @@
   align-content: center;
   align-items: center;
   flex-direction: column;
-  /* height: 90vh; */
-  /* width: 100%; */
-  background: url("/mysite/wp-content/themes/mytheme/img/bg-news-page.jpg")100% 100% no-repeat;
-  background-size: cover;
+  height: 90vh;
+   width: 100%;
+  background: url("/mysite/wp-content/themes/mytheme/img/bg-news-page.jpg") no-repeat;
+  background-size: 100% 80%;
   box-sizing: content-box;
   z-index: 1;
   overflow: hidden

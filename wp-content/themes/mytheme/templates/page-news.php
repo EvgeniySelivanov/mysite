@@ -9,6 +9,7 @@
 <?php   if (current_user_can( 'subscriber')||current_user_can( 'administrator')){?>
 
 <div class="pageNewsMain content">
+
   <?php $current_page = (get_query_var('paged')) ? get_query_var('paged') : 1;
   $params = array(
     'posts_per_page' => 2, // количество постов на странице
@@ -20,7 +21,7 @@
   <div class="container">
     <?php $wp_query->is_archive = true;
     $wp_query->is_home = false; ?>
-
+     
     <?php while (have_posts()) : the_post(); ?>
 
       <!-- в тело цикла вставьте HTML одного анонса записи, например: -->
@@ -33,6 +34,7 @@
         <a href="<?php the_permalink(); ?>" class="btn btn-outline-dark shadow-none">Read more →</a>
       </div>
     <?php endwhile; ?>
+    <div class="text-white"><a href="http://localhost/mysite/?page_id=53" class="btn btn-outline-light shadow-none">Create news</a></div> 
 <?php }
 //если роль пользователя не совпадает выводи следующие
 else{
