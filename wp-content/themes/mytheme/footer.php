@@ -1,3 +1,4 @@
+</main>
 <footer class="py-3 bg-dark">
   <div class="container-fluid myclass">
     <div class="col-lg-6 ms-4">
@@ -13,5 +14,7 @@
   </div>
 </footer>
 <?php wp_footer(); ?>
+      </wrapper>
+      
 </body>
 </html>

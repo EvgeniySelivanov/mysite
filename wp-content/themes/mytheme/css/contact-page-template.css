@@ -1,4 +1,15 @@
 /*стили шаблона contact-page.php*/
+.bg-template{
+  background: url("/mysite/wp-content/themes/mytheme/img/bg-contact-page.jpg") no-repeat;
+  background-size:cover;
+  padding: 7%;
+}
+
+#pageContactTemplate{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
 #myContactForm {
 width: fit-content;
 padding: 2%;
@@ -11,24 +22,9 @@ border-radius: 4% 0 0 4%;
   position: relative;
   top: 15px;
 }
-#pageContactTemplate{
-  display: flex;
-  justify-content: center;
-  align-items: center; 
-}
 
-.bg-template{
-  display: flex;
-  justify-content: center;
-  align-content: center;
-  align-items: center;
-  /* height: 90vh; */
-  /* width: 100%; */
-  background: url("/mysite/wp-content/themes/mytheme/img/bg-contact-page.jpg") no-repeat;
-  background-size:100% 100%;
-  
-  z-index: 1;
-}
+
+
 @media(max-width:1400px){
   #myContactForm {
     border-radius: 4%;
@@ -48,12 +44,19 @@ border-radius: 4% 0 0 4%;
 
 @media(max-width:510px){
   #pageContactTemplate{
-    transform:scale(0.65) ;
+    transform:scale(0.75) ;
+    display: block;
+    position: fixed;
+    top:2vh;
   }
   #myMap{
     transform: translate(-50%,0px);
     transform:scale(0.55);
-    position: relative;
-    left: -10%;  
+    position: fixed;
+    top:80%;
+    left:-12%;  
+  }
+  footer{
+    min-height: 10%;
   }
 }

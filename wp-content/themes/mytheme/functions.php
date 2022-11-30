@@ -1,8 +1,8 @@
 <?php
 //подключил файл с бутраповской темой
 require_once $_SERVER['DOCUMENT_ROOT'].'/mysite/wp-content/themes/mytheme/bstr/bootstrap_5_wp_nav_menu.php';
-//подключил пагинация на странице превью
-// require_once $_SERVER['DOCUMENT_ROOT'].'/mysite/wp-content/themes/mytheme/helpers/pagination-page-previews.php';
+
+
 //подключаю стили правильно
 function it_blog_style_frontend() {
    wp_enqueue_style('bootstrap', 'https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css');
