@@ -1,8 +1,8 @@
 /*стили шаблона contact-page.php*/
 .bg-template{
   background: url("/mysite/wp-content/themes/mytheme/img/bg-contact-page.jpg") no-repeat;
-  background-size:cover;
-  padding: 7%;
+  background-size: 205vh;
+  padding: 2%;
 }
 
 #pageContactTemplate{
