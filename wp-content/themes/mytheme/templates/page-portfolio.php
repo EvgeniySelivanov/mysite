@@ -5,39 +5,55 @@
  */?>
 <?php get_header();?>
 <?php
-$posts = get_posts( array(
-	'numberposts' => 5,
-	'post_type'   => 'project_list',
-	'suppress_filters' => true, // подавление работы фильтров изменения SQL запроса
-) );
+//количество постов этого типа(сущности)
+  $numberWork=wp_count_posts()->publish;
+  $current_page = (get_query_var('paged')) ? get_query_var('paged') : 1;
+  $params = array(
+    'posts_per_page' => 3, // количество постов на странице
+    'post_type'       => 'project_list', // тип постов
+    'paged'           => $current_page,// текущая страница
+    'orderby' => 'modified', 
+   
+  );
+  // query_posts() Определяет какие посты будут показаны в базовом Цикле WordPress. Создает базовый Цикл WordPress. Возвращает список записей (постов).
+  query_posts($params); 
+  $wp_query->is_archive = true;
+  $wp_query->is_home = false;
+
  //var_dump($posts); 
+
 ?>
-<table class="table">
-<thead>
-    <tr>
-      <th scope="col">#</th>
-      <th scope="col">Name</th>
-      <th scope="col">Framework</th>
-      <th scope="col">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-<?php 
-$numberWork=0;
-foreach($posts as $post){
-  setup_postdata($post);?>  
-    <tr>
-      <th scope="row">
-        <?php 
-      $numberWork+=1;
-      echo $numberWork;?></th>
-      
-      <td><?php the_title();?></td>
-      <td>Wordpress</td>
-      <td><?php the_content();?></td>
-    </tr>
-   <?php }?>
-  </tbody>
-</table>
-<?php wp_reset_postdata();?>
+<div class="container"> 
+  <div><strong>общее количество работ:<?php echo $numberWork;?></strong> </div> 
+  <table class="table">
+  <thead>
+      <tr>
+        <th scope="col">Date</th>
+        <th scope="col">Name</th>
+        <th scope="col">Framework</th>
+        <th scope="col">Description</th>
+      </tr>
+    </thead>
+    <tbody>
+  <?php
+
+  while (have_posts()) : the_post();
+  ?>
+      <tr>
+        <th scope="row">
+        <?php the_time('j F Y'); ?></th>
+  
+        <td><?php the_title();?></td>
+        <td>Wordpress</td>
+        <td><?php the_content();?></td>
+      </tr>
+     <?php endwhile;?>
+    </tbody>
+  </table>
+  <div class="d-flex justify-content-center mt-2">
+      <?php do_action('myPostPagination');?>
+</div>
+</div>
+
+
 <?php get_footer();?>

@@ -20,7 +20,8 @@
   query_posts($params); ?>
   <!-- колонка с постами -->
   <div id="newsPostGroup" class="mt-5 container">
-    <?php $wp_query->is_archive = true;
+    <?php 
+    $wp_query->is_archive = true;
     $wp_query->is_home = false; ?>
      
     <?php while (have_posts()) : the_post(); ?>
