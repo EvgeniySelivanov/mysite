@@ -40,11 +40,10 @@
   while (have_posts()) : the_post();
   ?>
       <tr>
-        <th scope="row">
-        <?php the_time('j F Y'); ?></th>
-  
-        <td><?php the_title();?></td>
-        <td>Wordpress</td>
+        <!--Вывод даты с помощь функции get_field| date это поле из ACF -->
+        <th scope="row"><?php echo get_field('date')?></th>
+        <td><a href="<?php echo get_field('address')?>"><?php echo get_field('address')?></a></td>
+        <td><?php echo get_field('tehnology_type')?></td>
         <td><?php the_content();?></td>
       </tr>
      <?php endwhile;?>

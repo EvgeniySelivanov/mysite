@@ -274,4 +274,7 @@ function register_post_types(){
 		'query_var'           => true,
 	] );
 }
+
+
 ?>
+  
