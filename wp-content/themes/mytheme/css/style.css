@@ -7,6 +7,11 @@ body{
   padding-top: 72px;
   padding-bottom: 80px;
 }
+/*remove margin container bootstrap*/
+.removeMargins{
+  margin:0 !important;
+  padding:0 !important;
+}
 .wrapper{
  display: flex;
  min-height: 100%;
@@ -74,7 +79,15 @@ header{
 .gitico{
   background-color: rgb(126, 37, 210) !important;
 }
-
+/* test musor */
+.testhover{
+  transition: 2s;
+  opacity: 0.75;
+}
+.testhover:hover{
+  transition: 2s;
+  opacity: 1;
+}
 
 .logoDown{
   font-size:small;

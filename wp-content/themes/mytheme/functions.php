@@ -32,8 +32,8 @@ register_sidebar(array(
   'description'=>'sidebar left',
   'before_widget' => '<div id="%1$s">',
   'after_widget'  => '</div>',
-  'before_title'  => '<h5 class="card-header">',
-  'after_title'   => '</h5><div class="card-body">',
+  'before_title'  => '<h5>',
+  'after_title'   => '</h5><div>',
 ));
 
 register_sidebar(array(
@@ -42,8 +42,8 @@ register_sidebar(array(
    'description'=>'sidebar right',
    'before_widget' => '<div id="%1$s">',
    'after_widget'  => '</div>',
-   'before_title'  => '<h5 class="card-header">',
-   'after_title'   => '</h5><div class="card-body">',
+   'before_title'  => '<h5>',
+   'after_title'   => '</h5><div>',
  ));
 
 register_sidebar(array(
@@ -136,7 +136,7 @@ add_theme_support(
 
 
 
-//user information 
+//user information in header
 function userInfo(){
    //массив с данными о пользователе
    $userInfo=wp_get_current_user();
